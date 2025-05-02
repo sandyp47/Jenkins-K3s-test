@@ -1,0 +1,32 @@
+   1345 MedicalInformatics/nQuiry/nquiry-uima-base build
+   1000 MedicalInformatics/nQuiry/nquiry-activemq build
+    985 MedicalInformatics/nQuiry/nquiry-tensorflow-serving build
+    557 MedicalInformatics/nQuiry/nquiry
+    498 MedicalInformatics/nQuiry/nquiry-deploy
+    394 MedicalInformatics/nQuiry/nquiry-build-w-resource
+    309 MedicalInformatics/nQuiry/check-tag-build-deploy
+    249 MedicalInformatics/nQuiry/nquiry-batch-client-run
+    177 MedicalInformatics/nQuiry/nquiry_az_undeploy
+     52 MedicalInformatics/nQuiryStaging/nQuiryStaging
+     17 MedicalInformatics/nQuiry/nquiry-package-resource
+      9 MedicalInformatics/nQuiry/kpmi-bouncer
+      5 MedicalInformatics/nQuiry/Azure
+      2 MedicalInformatics/nQuiry/nquiry-kube-deploy
+      1 MedicalInformatics/nQuiryStaging/nQuiryStaging | nQuiryStaging | class org.jenkinsci.plugins.workflow.multibranch.WorkflowMultiBranchProject
+      1 MedicalInformatics/nQuiryScheduledTasks/LoadNotesFromClarityToStaging | LoadNotesFromClarityToStaging | class hudson.model.FreeStyleProject
+      1 MedicalInformatics/nQuiryPortal/nQuiryPortal_Batch_ant_obsolete | nQuiryPortal_Batch_ant_obsolete | class hudson.model.FreeStyleProject
+      1 MedicalInformatics/nQuiryPortal/nQuiryPortal-UAT | nQuiryPortal-UAT | class hudson.model.FreeStyleProject
+      1 MedicalInformatics/nQuiryPortal/nQuiryPortal-Prod | nQuiryPortal-Prod | class hudson.model.FreeStyleProject
+      1 MedicalInformatics/nQuiryPortal/nQuiryPortal-IAW | nQuiryPortal-IAW | class hudson.model.FreeStyleProject
+      1 MedicalInformatics/nQuiryPortal/nQuiryPortal-Batch | nQuiryPortal-Batch | class hudson.model.FreeStyleProject
+      1 MedicalInformatics/nQuiry/nquiry_az_undeploy | nquiry_az_undeploy | class org.jenkinsci.plugins.workflow.multibranch.WorkflowMultiBranchProject
+      1 MedicalInformatics/nQuiry/nquiry-uima-base build | nquiry-uima-base build | class org.jenkinsci.plugins.workflow.multibranch.WorkflowMultiBranchProject
+      1 MedicalInformatics/nQuiry/nquiry-tensorflow-serving build | nquiry-tensorflow-serving build | class org.jenkinsci.plugins.workflow.multibranch.WorkflowMultiBranchProject
+      1 MedicalInformatics/nQuiry/nquiry-package-resource | nquiry-package-resource | class org.jenkinsci.plugins.workflow.multibranch.WorkflowMultiBranchProject
+      1 MedicalInformatics/nQuiry/nquiry-kube-deploy | nquiry-kube-deploy | class org.jenkinsci.plugins.workflow.multibranch.WorkflowMultiBranchProject
+      1 MedicalInformatics/nQuiry/nquiry-deploy | nquiry-w-resource build deploy | class org.jenkinsci.plugins.workflow.multibranch.WorkflowMultiBranchProject
+      1 MedicalInformatics/nQuiry/nquiry-build-w-resource | nquiry-build-w-resource | class org.jenkinsci.plugins.workflow.multibranch.WorkflowMultiBranchProject
+      1 MedicalInformatics/nQuiry/nquiry-batch-client-run | nquiry-batch-client-run | class org.jenkinsci.plugins.workflow.multibranch.WorkflowMultiBranchProject
+      1 MedicalInformatics/nQuiry/nquiry-activemq build | nquiry-activemq build | class org.jenkinsci.plugins.workflow.multibranch.WorkflowMultiBranchProject
+      1 MedicalInformatics/nQuiry/nquiry | nquiry build | class org.jenkinsci.plugins.workflow.multibranch.WorkflowMultiBranchProject
+      1 MedicalInformatics/nQuiry/check-tag-build-deploy | check-tag-build-deploy | class org.jenkinsci.plugins.workflow.multibranch.WorkflowMultiBranchProject

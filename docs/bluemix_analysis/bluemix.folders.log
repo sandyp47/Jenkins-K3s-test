@@ -1,0 +1,1127 @@
+ADF-SOI | ADF-SOI | class com.cloudbees.hudson.plugins.folder.Folder
+ADP | ADP | class com.cloudbees.hudson.plugins.folder.Folder
+ADP/ADP-ELM-KPEG | ELM-KPEG | class com.cloudbees.hudson.plugins.folder.Folder
+ADP/ELM-ADMIN | ELM-ADMIN | class com.cloudbees.hudson.plugins.folder.Folder
+ADP/ELM-KPMC | ELM-KPMC | class com.cloudbees.hudson.plugins.folder.Folder
+ADP/ELM | ELM | class com.cloudbees.hudson.plugins.folder.Folder
+ADP/POC | POC | class com.cloudbees.hudson.plugins.folder.Folder
+AIS | AIS | class com.cloudbees.hudson.plugins.folder.Folder
+AIS/AISDA | AISDA | class com.cloudbees.hudson.plugins.folder.Folder
+AIS/MARSDB | MARSDB | class com.cloudbees.hudson.plugins.folder.Folder
+AKS-Releases | AKS-Releases | class com.cloudbees.hudson.plugins.folder.Folder
+AKS-Releases/baseimages | baseimages | class com.cloudbees.hudson.plugins.folder.Folder
+AKS-Releases/baseimages/Twistlock Validation | Twistlock Validation | class com.cloudbees.hudson.plugins.folder.Folder
+AKS-Releases/helm | helm | class com.cloudbees.hudson.plugins.folder.Folder
+AKS-SelfService | AKS-SelfService | class com.cloudbees.hudson.plugins.folder.Folder
+AKS-SelfService/AKS-Adhoc-Jobs | AKS-Adhoc-Jobs | class com.cloudbees.hudson.plugins.folder.Folder
+AKS-SelfService/AKS-Adhoc-Jobs/AKS-Resource-Management | AKS-Resource-Management | class com.cloudbees.hudson.plugins.folder.Folder
+AKS-SelfService/AKS-Adhoc-Jobs/Azure-Service-Management | Azure-Service-Management | class com.cloudbees.hudson.plugins.folder.Folder
+AKS-SelfService/docker-image-scans | docker-image-scans | class com.cloudbees.hudson.plugins.folder.Folder
+AKS-SelfService/Prisma | Prisma | class com.cloudbees.hudson.plugins.folder.Folder
+ASG-RAS | ASG-RAS | class com.cloudbees.hudson.plugins.folder.Folder
+ASG-RAS/APF | APF | class com.cloudbees.hudson.plugins.folder.Folder
+ASG-RAS/CustomMonitoring | CustomMonitoring | class com.cloudbees.hudson.plugins.folder.Folder
+ASG-RAS/SupportPlus | SupportPlus | class com.cloudbees.hudson.plugins.folder.Folder
+BCP | BCP | class com.cloudbees.hudson.plugins.folder.Folder
+BCP/chatbot | chatbot | class com.cloudbees.hudson.plugins.folder.Folder
+BCP/chatbot/KP-digital-chatbots | KP-digital-chatbots | class com.cloudbees.hudson.plugins.folder.Folder
+Bluemix-training | Bluemix-training | class com.cloudbees.hudson.plugins.folder.Folder
+BWG-SelfService | BWG-SelfService | class com.cloudbees.hudson.plugins.folder.Folder
+BWG-SelfService/Encounters | Encounters | class com.cloudbees.hudson.plugins.folder.Folder
+BWG-SelfService/Encounters/DB_Scripts | DB_Scripts | class com.cloudbees.hudson.plugins.folder.Folder
+BWG-SelfService/MMT | MMT | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-CDC | CAS-CDC | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas | CAS-Paas | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/admin-utilities | admin-utilities | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/admin-utilities/aks_utilities | aks_utilities | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/admin-utilities/azure_ml | azure_ml | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/AKS | AKS | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI | Azure-CLI | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/Automated-Project-Provisioning | Automated Project Provisioning | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/Automated-Project-Provisioning/Development | Development | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/Automated-Project-Provisioning/Development/Assisted | Assisted | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/Automated-Project-Provisioning/Development/Automated | Automated | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/Automated-Project-Provisioning/Feature Branches | Feature Branches | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/Automated-Project-Provisioning/Feature Branches/AutomatedPipeline | AutomatedPipeline | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/Automated-Project-Provisioning/Master | Master | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/Automated-Project-Provisioning/Master/Assisted | Assisted | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/Automated-Project-Provisioning/Master/Automated | Automated | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/Automated-Project-Provisioning/Miscellaneous Jobs | Miscellaneous Jobs | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/azureAutomation | azureAutomation | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/DNSAutomation | DNSAutomation | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/DNSAutomation/WIP | WIP | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/JenkinSharedLibrary | JenkinSharedLibrary | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/JenkinSharedLibrary/Azure Chat Bot | Azure Chat Bot | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/JenkinSharedLibrary/Data Factory Deployments Finalized | Data Factory Deployments Finalized | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/JenkinSharedLibrary/Playground | Playground | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/JenkinSharedLibrary/Playground/aksbk | aksbk | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/JenkinSharedLibrary/Playground/Alex | Alex | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/JenkinSharedLibrary/Playground/Automation Project Provisioning and Manual Onboarding Process | Automation Project Provisioning & After Provisioning Jobs | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/JenkinSharedLibrary/Playground/Automation Project Provisioning and Manual Onboarding Process/Manual Process | Manual Process | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/JenkinSharedLibrary/Playground/Automation Project Provisioning and Manual Onboarding Process/Project Provisioning | Project Provisioning | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/JenkinSharedLibrary/Playground/david | david | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/JenkinSharedLibrary/Playground/david/automation | Automation | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/JenkinSharedLibrary/Playground/david/Databricks API | Databricks API | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/JenkinSharedLibrary/Playground/david/Manual_Process_Jobs | Manual_Process_Jobs | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/JenkinSharedLibrary/Playground/dbrck | dbrck | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/JenkinSharedLibrary/Playground/dima | dima | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/JenkinSharedLibrary/Playground/EventHub | EventHub | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/JenkinSharedLibrary/Playground/jay | jay | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/JenkinSharedLibrary/Playground/jay/dev | dev | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/JenkinSharedLibrary/Playground/jazmn | jazmn | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/JenkinSharedLibrary/Playground/Jenkins_Shared_Library_Tests | Jenkins_Shared_Library_Tests | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/JenkinSharedLibrary/Playground/Jenkins_Shared_Library_Tests/P278871 | P278871 | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/JenkinSharedLibrary/Playground/Jenkins_Shared_Library_Tests/P278871/RGAutomation | RGAutomation | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/JenkinSharedLibrary/Playground/jonathan | jonathan | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/JenkinSharedLibrary/Playground/josh | josh | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/JenkinSharedLibrary/Playground/josh/Provision Automation | Provision Automation | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/JenkinSharedLibrary/Playground/josh/resource-deployments | resource-deployments | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/JenkinSharedLibrary/Playground/josh/resource-deployments/dev | dev | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/JenkinSharedLibrary/Playground/kpdgav_deployments | kpdgav_deployments | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/JenkinSharedLibrary/Playground/Leela | Leela | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/JenkinSharedLibrary/Playground/Leela/Provision Automation | Provision Automation | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/JenkinSharedLibrary/Playground/Leela/resource-deployments | resource-deployments | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/JenkinSharedLibrary/Playground/Leela/resource-deployments/dev | dev | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/JenkinSharedLibrary/Playground/madhuri | madhuri | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/JenkinSharedLibrary/Playground/maytinee | maytinee | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/JenkinSharedLibrary/Playground/nagesh | nagesh | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/JenkinSharedLibrary/Playground/omran | omran | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/JenkinSharedLibrary/Playground/raj-shared-libraries-testing | raj-shared-libraries-testing | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/JenkinSharedLibrary/Playground/sekg | sekhar | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/JenkinSharedLibrary/Playground/shared_library_training | shared_library_training | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/JenkinSharedLibrary/Playground/shireesha | shireesha | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/JenkinSharedLibrary/Playground/srma | srma | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/VMAutomation | VMAutomation | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/VMAutomation/VMAutomationDevelopment | VMAutomationDevelopment | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/VMAutomation/VMAutomationDevelopment/Current VM Job To Use | Current VM Job To Use | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/VMAutomation/VMAutomationDevelopment/LinuxVmAutomation_OneClick | LinuxVmAutomation_OneClick | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/VMAutomation/VMAutomationDevelopmentGPU | VMAutomationDevelopmentGPU | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/VMAutomation/VMAutomationProduction | VMAutomationProduction | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/VMAutomation/VMAutomationProduction/Linux Current VM Job To Use | Linux Current VM Job To Use | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/VMAutomation/VMAutomationProduction/Windows Current VM Job To Use | Windows Current VM Job To Use | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-CLI/VMAutomation/VMAutomationProduction/WIP - Linux One Click Job | WIP - Linux One Click Job | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-COE | Azure-COE | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-COE/adf-sharedlibrary | adf-sharedlibrary | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-COE/az_services_deploy_v1 | az_services_deploy_v1 | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-COE/azcoe-aks-samples | azcoe-aks-samples | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-COE/AzureDash | AzureDash | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-COE/chandrapipelines | ChandraPipelines | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-COE/chandrapipelines/chatbotdeploy | chatbotdeploy | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-COE/chandrapipelines/hdinsights | hdinsights | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-COE/Janitor_Jobs | Janitor_Jobs | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-COE/l786913_shared_development | l786913_shared_development | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-COE/l786913_shared_development/CosmosDB | CosmosDB | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-COE/l786913_shared_development/cosmosdb | cosmosdb | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-COE/Manoj_pipelines | Manoj_pipelines | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-COE/NSG_dev | NSG_dev | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-COE/p278871 | p278871 | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-COE/p278871/Promotion_pipelines | Promotion_pipelines | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-COE/p278871/Promotion_pipelines/botServices | botServices | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-COE/p278871/Promotion_pipelines/cognitive_services | cognitive_services | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-COE/p278871/Promotion_pipelines/cognitiveServices | cognitiveServices | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-COE/p278871/Promotion_pipelines/cosmosdb | cosmosdb | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-COE/p278871/Promotion_pipelines/databricks | databricks | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-COE/p278871/Promotion_pipelines/eventhubs | eventhubs | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-COE/p278871/Promotion_pipelines/hdinsights | hdinsights | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-COE/p278871/Promotion_pipelines/mssqlJobs | mssqlJobs | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-COE/p278871/Promotion_pipelines/postGresJobs | postGresJobs | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-COE/p278871/Promotion_pipelines/StorageAccountJobs | StorageAccountJobs | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-COE/p278871/Promotion_pipelines/StorageAccountJobs/storage_v2 | storage_v2 | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-COE/p278871/synapse_tests | synapse_tests | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-COE/RajMarri | RajMarri | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-COE/Shared_Library_test | Shared_Library_test | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-COE/test_libraries | test_libraries | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-COE/Test_RD | Test_RD | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-COE/Test_RD1 | Test_RD1 | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-COE/VivSharedLibrary | VivSharedLibrary | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-COE/VivSharedLibrary/AppServicePlan | AppServicePlan | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-COE/VivSharedLibrary/AppSvcEnv | AppSvcEnv | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-COE/VivSharedLibrary/chatbotdeploy | chatbotdeploy | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/Azure-COE/VivSharedLibrary/KeniceChatbot | KeniceChatbot | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/azuredash | azuredash | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/db-paas | db-paas | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/DNS-Services | DNS-Services | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/kubernetes | kubernetes | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/kubernetes/terraform | terraform | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/monitoring | monitoring | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/playground | playground | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/playground/aks | aks | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/playground/hq | hq | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/sandbox | sandbox | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/sandbox/DXCSamplePipelines | DXCSamplePipelines | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/sandbox/RSP | RSP | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/sandbox/test-bluedash-sp | test-bluedash-sp | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/sandbox/TRK | TRK | class com.cloudbees.hudson.plugins.folder.Folder
+CAS-Paas/script-syncing | script-syncing | class com.cloudbees.hudson.plugins.folder.Folder
+casb_aznetskope | casb_aznetskope | class com.cloudbees.hudson.plugins.folder.Folder
+casb_aznetskope/casb_aznetskope_prod | casb_aznetskope | class com.cloudbees.hudson.plugins.folder.Folder
+CCS-TI | CCS-TI | class com.cloudbees.hudson.plugins.folder.Folder
+CD-NFS | CD-NFS | class com.cloudbees.hudson.plugins.folder.Folder
+CDTS-Telehealth | CDTS-Telehealth | class com.cloudbees.hudson.plugins.folder.Folder
+CDTS-Telehealth/RCDI | RCDI | class com.cloudbees.hudson.plugins.folder.Folder
+CDTS-Telehealth/RCDI/APIGEE | APIGEE | class com.cloudbees.hudson.plugins.folder.Folder
+CDTS | CDTS | class com.cloudbees.hudson.plugins.folder.Folder
+CDTS/CDTS-ASD-AE | CDTS-ASD-AE | class com.cloudbees.hudson.plugins.folder.Folder
+CDTS/CDTS-ASD-AE/Azure-MDCal | Azure-MDCal | class com.cloudbees.hudson.plugins.folder.Folder
+CDTS/CDTS-ASD-AE/MDC Retired | MDC Retired | class com.cloudbees.hudson.plugins.folder.Folder
+CDTS/CDTS-PHT | CDTS-PHT | class com.cloudbees.hudson.plugins.folder.Folder
+CDTS/CDTS-SCAL-BE | CDTS-SCAL-BE | class com.cloudbees.hudson.plugins.folder.Folder
+CDTS/CDTS-SCAL-BE/DONT USE - dev-cdts-scal | DONT USE - dev-cdts-scal | class com.cloudbees.hudson.plugins.folder.Folder
+CDTS/CDTS-SCAL-BE/DONT USE - qa-cdts-scal | DONT USE - qa-cdts-scal | class com.cloudbees.hudson.plugins.folder.Folder
+CDTS/HIE | HIE | class com.cloudbees.hudson.plugins.folder.Folder
+CDTS/HIE/Test Jobs | Test Jobs | class com.cloudbees.hudson.plugins.folder.Folder
+CDTS/Insight Driven | Insight Driven | class com.cloudbees.hudson.plugins.folder.Folder
+CDTS/KPMM | KPMM | class com.cloudbees.hudson.plugins.folder.Folder
+Citrx | Citrx | class com.cloudbees.hudson.plugins.folder.Folder
+ClarityInt | ClarityInt | class com.cloudbees.hudson.plugins.folder.Folder
+CNOE | CNOE | class com.cloudbees.hudson.plugins.folder.Folder
+CNOE/aks-workloads | aks-workloads | class com.cloudbees.hudson.plugins.folder.Folder
+CNOE/Azure Services | Azure Services | class com.cloudbees.hudson.plugins.folder.Folder
+CNOE/Azure Services/Azure Cognitive Services | Azure Cognitive Services | class com.cloudbees.hudson.plugins.folder.Folder
+CNOE/Azure Services/Azure Cosmos Database Account | Azure Cosmos Database Account | class com.cloudbees.hudson.plugins.folder.Folder
+CNOE/Azure Services/eventhubs | eventhubs | class com.cloudbees.hudson.plugins.folder.Folder
+CNOE/Azure Services/Insights Test Services | Insights Test Services | class com.cloudbees.hudson.plugins.folder.Folder
+CNOE/Azure Services/Insights Test Services/Azure Cognitive Services | Azure Cognitive Services | class com.cloudbees.hudson.plugins.folder.Folder
+CNOE/AzureSamples | AzureSamples | class com.cloudbees.hudson.plugins.folder.Folder
+CNOE/AzureSamples/Promotion_pipelines | Promotion_pipelines | class com.cloudbees.hudson.plugins.folder.Folder
+CNOE/AzureSamples/Promotion_pipelines/botServices | botServices | class com.cloudbees.hudson.plugins.folder.Folder
+CNOE/AzureSamples/Promotion_pipelines/cognitive_services | cognitive_services | class com.cloudbees.hudson.plugins.folder.Folder
+CNOE/AzureSamples/Promotion_pipelines/cognitiveServices | cognitiveServices | class com.cloudbees.hudson.plugins.folder.Folder
+CNOE/AzureSamples/Promotion_pipelines/cosmosdb | cosmosdb | class com.cloudbees.hudson.plugins.folder.Folder
+CNOE/AzureSamples/Promotion_pipelines/databricks | databricks | class com.cloudbees.hudson.plugins.folder.Folder
+CNOE/AzureSamples/Promotion_pipelines/eventhubs | eventhubs | class com.cloudbees.hudson.plugins.folder.Folder
+CNOE/AzureSamples/Promotion_pipelines/hdinsights | hdinsights | class com.cloudbees.hudson.plugins.folder.Folder
+CNOE/AzureSamples/Promotion_pipelines/mssqlJobs | mssqlJobs | class com.cloudbees.hudson.plugins.folder.Folder
+CNOE/AzureSamples/Promotion_pipelines/PostgresFlexi | PostgresFlexi | class com.cloudbees.hudson.plugins.folder.Folder
+CNOE/AzureSamples/Promotion_pipelines/postGresJobs | postGresJobs | class com.cloudbees.hudson.plugins.folder.Folder
+CNOE/AzureSamples/Promotion_pipelines/ServiceBus | ServiceBus | class com.cloudbees.hudson.plugins.folder.Folder
+CNOE/AzureSamples/Promotion_pipelines/StorageAccountJobs | StorageAccountJobs | class com.cloudbees.hudson.plugins.folder.Folder
+CNOE/AzureSamples/Promotion_pipelines/StorageAccountJobs/storage_v2 | storage_v2 | class com.cloudbees.hudson.plugins.folder.Folder
+CNOE/BOT_Enhancement | BOT_Enhancement | class com.cloudbees.hudson.plugins.folder.Folder
+CNOE/Build_Samples | Build_Samples | class com.cloudbees.hudson.plugins.folder.Folder
+CNOE/chandrapipelines | ChandraPipelines | class com.cloudbees.hudson.plugins.folder.Folder
+CNOE/chandrapipelines/chatbotdeploy | chatbotdeploy | class com.cloudbees.hudson.plugins.folder.Folder
+CNOE/chandrapipelines/hdinsights | hdinsights | class com.cloudbees.hudson.plugins.folder.Folder
+CNOE/DAIP | DAIP | class com.cloudbees.hudson.plugins.folder.Folder
+CNOE/Janitor_Jobs | Janitor_Jobs | class com.cloudbees.hudson.plugins.folder.Folder
+CNOE/Jenkins | Jenkins | class com.cloudbees.hudson.plugins.folder.Folder
+CNOE/JosephTest | JosephTest | class com.cloudbees.hudson.plugins.folder.Folder
+CNOE/p278871 | p278871 | class com.cloudbees.hudson.plugins.folder.Folder
+CNOE/Theresa | Theresa | class com.cloudbees.hudson.plugins.folder.Folder
+CNOE/VivSharedLibrary | VivSharedLibrary | class com.cloudbees.hudson.plugins.folder.Folder
+CNOE/VivSharedLibrary/ADF Code Promotion | ADF Code Promotion | class com.cloudbees.hudson.plugins.folder.Folder
+CNOE/VivSharedLibrary/AppServicePlan | AppServicePlan | class com.cloudbees.hudson.plugins.folder.Folder
+CNOE/VivSharedLibrary/AppSvcEnv | AppSvcEnv | class com.cloudbees.hudson.plugins.folder.Folder
+CNOE/VivSharedLibrary/chatbotdeploy | chatbotdeploy | class com.cloudbees.hudson.plugins.folder.Folder
+CNOE/VivSharedLibrary/KeniceChatbot | KeniceChatbot | class com.cloudbees.hudson.plugins.folder.Folder
+Crowd | Crowd | class com.cloudbees.hudson.plugins.folder.Folder
+Crowd/A2O | A2O | class com.cloudbees.hudson.plugins.folder.Folder
+Crowd/CrowdNewUser | CrowdNewUser | class com.cloudbees.hudson.plugins.folder.Folder
+Crowd/FOTF | FOTF | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT | CS-IT | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD | ASD | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/A20 Audit and Monitor | A20 Audit and Monitor | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/A20 Program Cost | A20 Program Cost | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/A20 Training | A20 Training | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/A20ML | A20ML | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/Admin | Admin | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/Admin/Stored Procedure | Stored Procedure | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/Admin/Stored Procedure/MMT | MMT | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/Admin/Stored Procedure/RADA | RADA | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/Admin/Stored Procedure/SE | SE | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/Admin/Trial Jobs | Trial Jobs | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/Admin/Trial Jobs/AzDF test build | AzDF test build | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/Admin/Trial Jobs/databricks | databricks | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/Admin/Trial Jobs/MSFT-DevOps-Sandbox | MSFT-DevOps-Sandbox | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/Admin/Trial Jobs/Python | Python | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/Admin/Trial Jobs/retrieve_synapse_data_pushto_ALM | retrieve_synapse_data_pushto_ALM | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/AE | AE | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/ARR | ARR | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/ATSE | ATSE | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/ATSE/Master Reference | Master Reference | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/ATSE/Master Reference/AKV Secrets Services | AKV Secrets Services | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/ATSE/Master Reference/Azure Data Factory | Azure Data Factory | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/ATSE/Master Reference/Azure Data Factory/demo | demo | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/ATSE/Master Reference/Azure Data Factory/demo/demo | demo | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/ATSE/Master Reference/Synapse | Synapse | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/ATSE/Master Reference/TIBCO | TIBCO | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/CFD | CFD | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/CSTDM | CSTDM | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/DARCH | DARCH | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/DIAS | DIAS | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/DIAS/NatOps | NatOps | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/DIAS/NatOps/EMI_NatOps_DBX | EMI_NatOps_DBX | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/EASPB | EASPB | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/EMI_NatOps | EMI_NatOps | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/ENCRI | ENCRI | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/FSC | FSC | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/HPDT | HPDT | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/HTS | HTS | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/IICS | IICS | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/IICS/IICS-API | iics_api | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/IICS/IICS-API/archive | archive | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/IICS/IICS-API/archive/Auxiliary | Aux-Jobs | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/IICS/IICS-API/archive/test_trigger | test trigger | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/IICS/old | Old | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/IICS/old/IICS pull All | IICS pull All | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/ITOM | ITOM | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/MMT | MMT | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/MTP | MTP | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/NATLF | NATLF | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/SHLTH | SHLTH | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/Snowflake Testing | Snowflake Testing | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ASD/TMP | TMP | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/CPCMPCPIE | CPCMPCPIE | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/CPXENVIRONMENT | CPXENVIRONMENT | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/CPXENVIRONMENT/CPX-PMTCORE-BACKUP | CPX-PMTCORE-BACKUP | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/CPXENVIRONMENT/CPX-PMTCORE-BACKUP/CPXPAYMENTCORE | CPXPAYMENTCORE | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/CPXENVIRONMENT/CPX_PrePilot | CPX_PrePilot | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/CPXENVIRONMENT/CPXQATESTING |  CPXQATESTING | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/CPXENVIRONMENT/CPXQATESTING/archival | archival | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/CPXENVIRONMENT/CPXQATESTING/cpx-epims-adapter-qa-automation | cpx-epims-adapter-qa-automation | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/CPXENVIRONMENT/CPXQATESTING/cpx-kpd-th-qa-automation | cpx-kpd-th-qa-automation | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/CPXENVIRONMENT/CPXQATESTING/cpx-pmtcore-ach-qa-automation | cpx-pmtcore-ach-qa-automation | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/CPXENVIRONMENT/CPXQATESTING/cpx-pmtcore-cardtxn-qa-automation | cpx-pmtcore-cardtxn-qa-automation | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/CPXPAYMENTCORE | CPXPAYMENTCORE | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/CPXPAYMENTCORE/QA-Automation | QA-Automation | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/CPXPAYMENTCORE/releaseAutomation | releaseAutomation | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/CPXPAYMENTCORE/TESTJOBS | TESTJOBS | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/CPXPHARMACY | CPXPHARMACY | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/CPXQATESTING |  CPXQATESTING | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/CPXQATESTING/archival | archival | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/CPXQATESTING/archival/z-cpx-ewallet-qa-automation | z-cpx-ewallet-qa-automation | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/CPXQATESTING/archival/z-cpx-kmate-adapter | z-cpx-kmate-adapter | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/CPXQATESTING/archival/z-cpx-kpd-th-qa-automation | z-cpx-kpd-th-qa-automation | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/CPXQATESTING/archival/z-cpx-mychart-qa-automation | z-cpx-mychart-qa-automation | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/CPXQATESTING/archival/z-cpx-pcs-epims-adapter-qa-automation-old | z-cpx-pcs-epims-adapter-qa-automation-old | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/CPXQATESTING/archival/z-cpx-pmtcore-ach-qa-automation | z-cpx-pmtcore-ach-qa-automation | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/CPXQATESTING/archival/z-cpx-pmtcore-cardtxn-qa-automation | z-cpx-pmtcore-cardtxn-qa-automation | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/CPXQATESTING/archival/z-s2p-integrations-qa-automation-old | z-s2p-integrations-qa-automation-old | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/CPXQATESTING/QA-Automation | QA-Automation | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/CPXSKILLNET | CPXSKILLNET | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/CPXSKILLNET/DevOpsTesting | DevOpsTesting | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/ETG | ETG | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/FHIR-POC | FHIR-POC | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/KG-Package | KG Package | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/MPS-PIE | MPS-PIE | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/NFST | NFST | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/NFST/GRCR | GRCR | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/NFST/GRCR/KPRB | KPRB | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/NFST/KPRB | KPRB | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/NFST/Legal | Legal | class com.cloudbees.hudson.plugins.folder.Folder
+CS-IT/RADA | RADA | class com.cloudbees.hudson.plugins.folder.Folder
+csg-devops | csg-devops | class com.cloudbees.hudson.plugins.folder.Folder
+csg-devops/artifactory | artifactory | class com.cloudbees.hudson.plugins.folder.Folder
+csg-devops/github | github | class com.cloudbees.hudson.plugins.folder.Folder
+CSG | Cloud Services Group | class com.cloudbees.hudson.plugins.folder.Folder
+CSG/AKS | AKS | class com.cloudbees.hudson.plugins.folder.Folder
+CSG/AKS/base-images | base-images | class com.cloudbees.hudson.plugins.folder.Folder
+CSG/BaseImages | BaseImages | class com.cloudbees.hudson.plugins.folder.Folder
+CSG/csg-terraform-pipelines | DO NOT ARCHIVE csg-terraform-pipelines | class com.cloudbees.hudson.plugins.folder.Folder
+CSG/csg-terraform-pipelines/DO NOT ARCHIVE terraform-sub-project | DO NOT ARCHIVE terraform-sub-project | class com.cloudbees.hudson.plugins.folder.Folder
+CSG/Devops | Devops | class com.cloudbees.hudson.plugins.folder.Folder
+CSG/Devops/Atlassian-Automation | Atlassian-Automation | class com.cloudbees.hudson.plugins.folder.Folder
+CSG/Post-Hook | Post-Hook | class com.cloudbees.hudson.plugins.folder.Folder
+CSG/ScanBaseImages-PR | ScanBaseImages-PR | class com.cloudbees.hudson.plugins.folder.Folder
+CSG/Thilak | Thilak | class com.cloudbees.hudson.plugins.folder.Folder
+CSG/Thilak/AKS-Vendor | AKS-Vendor | class com.cloudbees.hudson.plugins.folder.Folder
+CSG/Thilak/hooks | hooks | class com.cloudbees.hudson.plugins.folder.Folder
+CSG/Thilak/sharedLibs | sharedLibs | class com.cloudbees.hudson.plugins.folder.Folder
+CSIT-DA | CSIT-DA | class com.cloudbees.hudson.plugins.folder.Folder
+CSIT-DA/DSP-SharedTenant | DSP Shared Tenant | class com.cloudbees.hudson.plugins.folder.Folder
+CSIT-DA/DSP-SharedTenant/DSP-Dashboard | DSP Dashboard | class com.cloudbees.hudson.plugins.folder.Folder
+CSIT-DA/DSP | DSP | class com.cloudbees.hudson.plugins.folder.Folder
+CSIT-DA/DSP/ClientApp | Client App | class com.cloudbees.hudson.plugins.folder.Folder
+CSIT-DA/DSP/DSP-API | DSP API | class com.cloudbees.hudson.plugins.folder.Folder
+CSIT-DA/Gurobi | Gurobi | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI | CTO-EA-SOI | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework | CTO-EA-SOI-Framework | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/ADF-NonProd-PROD-Pipeline | ADF-NonProd-PROD-Pipeline | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/ADF-NonProd-PROD-Pipeline/AKS-FHIR | AKS-FHIR | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/ADF-NonProd-PROD-Pipeline/Astronomer-Dags | Astronomer-Dags | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/ADF-NonProd-PROD-Pipeline/COHORT | COHORT | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/ADF-NonProd-PROD-Pipeline/DAU-DUF | DAU-DUF | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/ADF-NonProd-PROD-Pipeline/FHIR-Applications | ADF-FHIR-Application-Pipelines | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/ADF-NonProd-PROD-Pipeline/Get_PODS | Get_PODS | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/ADF-NonProd-PROD-Pipeline/KP-ADF-SOI-INSIGHT_DRIVEN | KP-ADF-SOI-INSIGHT_DRIVEN | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/ADF-NonProd-PROD-Pipeline/Message_Classification | Message Classification | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/ADF-NonProd-PROD-Pipeline/Model Manager Crons | Model Manager Crons | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/ADF-NonProd-PROD-Pipeline/NCAP | NCAP | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/ADF-NonProd-PROD-Pipeline/QnA_Self_Service_Tool | QnA_Self_Service-Tool | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/ADF-NonProd-PROD-Pipeline/Starburst-Trino | Starburst-Trino-Jobs | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/ADF-NonProd-PROD-Pipeline/TogetLogs | TogetLogs | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/AKSDeployments | AKSDeployments | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/AKSDeployments/ABC | ABC | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/AKSDeployments/Arria | Arria | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/AKSDeployments/Gurobi | Gurobi | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/AKSDeployments/InsightDriven | InsightDriven | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/AKSDeployments/MMT | MMT | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/AKSDeployments/snorkel | Snorkel | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/Ansible-Framework-deployment | Ansible-Framework-deployment | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/EA-SOI-PDR-SUITE | EA-SOI-PDR-SUITE | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/EDPCoverage | EDPCoverage | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/HDI4-Framework-Components | HDI4-Framework-Components | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/HDI4-Framework-Components/ADF_SELF_SERVICE_PIPELINES | ADF_SELF_SERVICE_PIPELINES | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/HDI4-Framework-Components/ADF_SELF_SERVICE_PIPELINES/ADF | ADF | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/HDI4-Framework-Components/ADF_SELF_SERVICE_PIPELINES/Astronomer | Astronomer | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/HDI4-Framework-Components/ADF_SELF_SERVICE_PIPELINES/DAU | DAU | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/HDI4-Framework-Components/ADF_SELF_SERVICE_PIPELINES/DAUAgreement | DAUAgreement | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/HDI4-Framework-Components/ADF_SELF_SERVICE_PIPELINES/EDP-EMILOAD | EDP-EMILOAD | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/HDI4-Framework-Components/ADF_SELF_SERVICE_PIPELINES/EDP-EMILOAD/EDP-EMIload View Pipelines | EDP-EMIload View Pipelines | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/HDI4-Framework-Components/ADF_SELF_SERVICE_PIPELINES/EDP-Libraries | EDP-Libraries | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/HDI4-Framework-Components/ADF_SELF_SERVICE_PIPELINES/EDP-MMLOAD | EDP-MMLOAD | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/HDI4-Framework-Components/ADF_SELF_SERVICE_PIPELINES/EDP-MMLOAD/EDP-MMload View Pipelines | EDP-MMload View Pipelines | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/HDI4-Framework-Components/ADF_SELF_SERVICE_PIPELINES/ETG_GROUPER | ETG_GROUPER | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/HDI4-Framework-Components/ADF_SELF_SERVICE_PIPELINES/FD | FD | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/HDI4-Framework-Components/ADF_SELF_SERVICE_PIPELINES/FD/NPE | NPE | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/HDI4-Framework-Components/ADF_SELF_SERVICE_PIPELINES/FD/PROD | PROD | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/HDI4-Framework-Components/ADF_SELF_SERVICE_PIPELINES/FD/PROD/Watcher_Restart | Watcher_Restart | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/HDI4-Framework-Components/ADF_SELF_SERVICE_PIPELINES/FD/PSUP | PSUP | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/HDI4-Framework-Components/ADF_SELF_SERVICE_PIPELINES/FD_Tech_Validation | FD_Tech_Validation | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/HDI4-Framework-Components/ADF_SELF_SERVICE_PIPELINES/FD_Tech_Validation/Clarity-AllTable-Pipelines | Clarity-AllTable-Pipelines | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/HDI4-Framework-Components/ADF_SELF_SERVICE_PIPELINES/FD_Tech_Validation/ClarityReconpipelines | ClarityReconpipelines | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/HDI4-Framework-Components/ADF_SELF_SERVICE_PIPELINES/FD_Tech_Validation/Metadata Extraction | Metadata Extraction | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/HDI4-Framework-Components/ADF_SELF_SERVICE_PIPELINES/FileUploadToADLS | FileUploadToADLS | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/HDI4-Framework-Components/ADF_SELF_SERVICE_PIPELINES/Hdfs_commands_new | Hdfs_commands_new | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/HDI4-Framework-Components/ADF_SELF_SERVICE_PIPELINES/HPDT | HPDT | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/HDI4-Framework-Components/ADF_SELF_SERVICE_PIPELINES/HPDT/NPE | NPE | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/HDI4-Framework-Components/ADF_SELF_SERVICE_PIPELINES/HPDT/NPE/HPDT-DEV | HPDT-DEV | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/HDI4-Framework-Components/ADF_SELF_SERVICE_PIPELINES/HPDT/NPE/HPDT-DEV/Watcher_Restart | Watcher_Restart | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/HDI4-Framework-Components/ADF_SELF_SERVICE_PIPELINES/HPDT/NPE/HPDT-UAT | HPDT-UAT | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/HDI4-Framework-Components/ADF_SELF_SERVICE_PIPELINES/HPDT/NPE/HPDT-UAT/Watcher_Restart | Watcher_Restart | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/HDI4-Framework-Components/ADF_SELF_SERVICE_PIPELINES/HPDT/PROD | PROD | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/HDI4-Framework-Components/ADF_SELF_SERVICE_PIPELINES/HPDT/PROD/Watcher_Restart | Watcher_Restart | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/HDI4-Framework-Components/ADF_SELF_SERVICE_PIPELINES/InsightDrivenRepo | InsightDrivenRepo | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/HDI4-Framework-Components/ADF_SELF_SERVICE_PIPELINES/Rstudio | Rstudio | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/HDI4-Framework-Components/AKS-DEPLOYMENTS | AKS-DEPLOYMENTS | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/HDI4-Framework-Components/AKS-KUBE-TEST | AKS-KUBE-TEST | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/HDI4-Framework-Components/HDI_sync_etc-hosts_hbase-site-xml | HDI_sync_etc-hosts_hbase-site-xml | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/HDI4-Framework-Components/InsightDriven-Hbase | InsightDriven-Hbase | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/HDI4-Framework-Components/KP-ABC-AKS | KP-ABC-AKS | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/HDI4-Framework-Components/KP-AKS-ChatBox | KP-AKS-ChatBox | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/KPD-Airflow | KPD Airflow Deployments | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/NexusAndWhiteHat | NexusAndWhiteHat | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Framework/Password_expiry_reset | Password_expiry_reset | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Infrastructure | CTO-EA-SOI-Infrastructure | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Infrastructure/NCAP-INFRA-PERF | NCAP-INFRA-PERF | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Infrastructure/Selfservice-Devtest | Selfservice-Devtest | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Infrastructure/Selfservice-Nonprod | Selfservice-Nonprod | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Infrastructure/Selfservice-Prod | Selfservice-Prod | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Infrastructure/Selfservice-Prodsup | Selfservice-Prodsup | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Infrastructure/SOI-SelfService-Nonprod | SOI-SelfService-Nonprod | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Infrastructure/SOI-SelfService-Prod | SOI-SelfService-Prod | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Utilities | CTO-EA-SOI-Utilities | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Utilities/Coverage | Coverage | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/CTO-EA-SOI-Utilities/Misc | Misc | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/HPDT-HDFS-Commands | HPDT-HDFS-Commands | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/HPDT-HDFS-Commands/EDP-GEN2-HDFS-Commands | EDP-GEN2-HDFS-Commands | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EA-SOI/SelfService | SelfService | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EIS | CTO-EIS | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EIS/aks-secrets-management | aks-secrets-management | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EIS/Az-NextGen | Az-NextGen | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EIS/Bluemix-Util-Jobs | Bluemix-Util-Jobs | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EIS/Nextgen Azure Utility Jobs | Nextgen Azure Utility Jobs | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EIS/Nextgen | Nextgen | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EIS/NextgenUI and E2E | NextgenUI and E2E | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EIS/nlu-utility-jobs | nlu-utility-jobs | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-EIS/Shared-Flows | Apigee Shared Flows | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-KPX | CTO-KPX | class com.cloudbees.hudson.plugins.folder.Folder
+CTO-KPX/Bluemix-Util-Jobs | Bluemix-Util-Jobs | class com.cloudbees.hudson.plugins.folder.Folder
+DA-CIF | DA-CIF | class com.cloudbees.hudson.plugins.folder.Folder
+DA-CIF/DataBricks-Pipelines | DataBricks-Pipelines | class com.cloudbees.hudson.plugins.folder.Folder
+Data-Analytics | Data-Analytics | class com.cloudbees.hudson.plugins.folder.Folder
+Data-Analytics/DA-DataOps | DA-DataOps | class com.cloudbees.hudson.plugins.folder.Folder
+Data-Analytics/DA-DataScience | DA-DataScience | class com.cloudbees.hudson.plugins.folder.Folder
+Data-Analytics/DA-DataScience/AADS-MIAP | AADS-MIAP | class com.cloudbees.hudson.plugins.folder.Folder
+Data-Analytics/DA-DataScience/AADS-MIRAI | AADS-MIRAI | class com.cloudbees.hudson.plugins.folder.Folder
+Data-Analytics/DA-DataScience/KP-GPT | KP-GPT | class com.cloudbees.hudson.plugins.folder.Folder
+Data-Analytics/DA-DbxDataIntegration | DA-DbxDataIntegration | class com.cloudbees.hudson.plugins.folder.Folder
+Data-Analytics/DA-DevOps | DA-DevOps | class com.cloudbees.hudson.plugins.folder.Folder
+Data-Analytics/DA-KEAPCDF | DA-KEAPCDF | class com.cloudbees.hudson.plugins.folder.Folder
+Data-Analytics/DA-MMT | DA-MMT | class com.cloudbees.hudson.plugins.folder.Folder
+Data-Analytics/DA-Security | DA-Security | class com.cloudbees.hudson.plugins.folder.Folder
+Data-Analytics/DA-SharedEnrichment | DA-SharedEnrichment | class com.cloudbees.hudson.plugins.folder.Folder
+Data-Analytics/DA-SharedEnrichment/Master and Reference Pipelines |  Master and Reference | class com.cloudbees.hudson.plugins.folder.Folder
+Data-Analytics/DA-SharedEnrichment/Optum | Optum | class com.cloudbees.hudson.plugins.folder.Folder
+DCSS | DCSS | class com.cloudbees.hudson.plugins.folder.Folder
+DCSS/DCSS-EWALLET | DCSS-EWALLET | class com.cloudbees.hudson.plugins.folder.Folder
+DCSS/HRConnect | HRConnect | class com.cloudbees.hudson.plugins.folder.Folder
+DCSS/MPS-CPC | MPS-CPC | class com.cloudbees.hudson.plugins.folder.Folder
+DCSS/TDM | TDM | class com.cloudbees.hudson.plugins.folder.Folder
+DEVOPS | DEVOPS | class com.cloudbees.hudson.plugins.folder.Folder
+DEVOPS/AKS Pipeline Test Applications | AKS Pipeline Test Applications | class com.cloudbees.hudson.plugins.folder.Folder
+DEVOPS/akshith | akshith | class com.cloudbees.hudson.plugins.folder.Folder
+DEVOPS/Artifactory-Cleanup-Bluemix | Artifactory-Cleanup-Bluemix | class com.cloudbees.hudson.plugins.folder.Folder
+DEVOPS/Artifactory-Cleanup-Bluemix/NPS | NPS | class com.cloudbees.hudson.plugins.folder.Folder
+DEVOPS/Backups | Backups | class com.cloudbees.hudson.plugins.folder.Folder
+DEVOPS/Crowd | Crowd | class com.cloudbees.hudson.plugins.folder.Folder
+DEVOPS/crowd_test | crowd_test | class com.cloudbees.hudson.plugins.folder.Folder
+DEVOPS/Ephemeral_Agents | Ephemeral_Agents | class com.cloudbees.hudson.plugins.folder.Folder
+DEVOPS/ephemeral_test | ephemeral_test | class com.cloudbees.hudson.plugins.folder.Folder
+DEVOPS/ghe-jobs | Jobs for Github Enterprise | class com.cloudbees.hudson.plugins.folder.Folder
+DEVOPS/jira | jira | class com.cloudbees.hudson.plugins.folder.Folder
+DEVOPS/Karthik-TestFolder | Karthik-TestFolder | class com.cloudbees.hudson.plugins.folder.Folder
+DEVOPS/multbranch-test | multbranch-test | class com.cloudbees.hudson.plugins.folder.Folder
+DEVOPS/Prashanth Rajasekar | Prashanth Rajasekar | class com.cloudbees.hudson.plugins.folder.Folder
+DEVOPS/Production_Jobs | Production_Jobs | class com.cloudbees.hudson.plugins.folder.Folder
+DEVOPS/Sample_Pipeline_Projects | Sample_Pipeline_Projects | class com.cloudbees.hudson.plugins.folder.Folder
+DEVOPS/Sri-Folder | Sri-Folder | class com.cloudbees.hudson.plugins.folder.Folder
+DEVOPS/Users | Users | class com.cloudbees.hudson.plugins.folder.Folder
+DivisionOfResearch | DivisionOfResearch | class com.cloudbees.hudson.plugins.folder.Folder
+DnA | DnA | class com.cloudbees.hudson.plugins.folder.Folder
+DnA/DevOps Standard Templates | DevOps Standard Templates | class com.cloudbees.hudson.plugins.folder.Folder
+DnA/FedMBR | FedMBR | class com.cloudbees.hudson.plugins.folder.Folder
+DnA/Medicare Bid | Medicare Bid | class com.cloudbees.hudson.plugins.folder.Folder
+docker-ocpbaseimages-opensourceimages-pipelines | docker-ocpbaseimages-opensourceimages-pipelines | class com.cloudbees.hudson.plugins.folder.Folder
+docker-ocpbaseimages-opensourceimages-pipelines/ocpbaseimages | ocpbaseimages | class com.cloudbees.hudson.plugins.folder.Folder
+eps-liberty | eps-liberty | class com.cloudbees.hudson.plugins.folder.Folder
+EUS-TAPA | EUS-TAPA | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-CMS | HP-BIO-CMS | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-CMS/apps-prod | Applications PROD | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-CMS/apps | Applications | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-CMS/datamodel-prod | Datamodel PROD | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-CMS/datamodel | Datamodel | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-CMS/Libraries | Libraries | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-CMS/PROD-jobs | PROD-jobs | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMP | HP-BIO-DMP | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMP/AZ Migration TDM | AZ Migration TDM | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMP/AZ-Migration DMP | AZ-Migration DMP | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS | HP-BIO-DMS | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/CARS | CARS | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/CARS/BUILD Jobs | BUILD Jobs | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/CARS/DEPLOY Jobs (Non-Prod) | DEPLOY Jobs (Non-Prod) | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/CARS/DEPLOY Jobs (Non-Prod)/dev | dev | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/CARS/DEPLOY Jobs (Non-Prod)/perf | perf | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/CARS/DEPLOY Jobs (Non-Prod)/qa | qa | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/CARS/DEPLOY Jobs (Non-Prod)/qa2 | qa2 | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/CARS/DEPLOY Jobs (Non-Prod)/qa3-lte | qa3-lte | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/CARS/DEPLOY Jobs (Non-Prod)/qa4 | qa4 | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/CARS/DEPLOY Jobs (Non-Prod)/qa5 | qa5 | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/CARS/DEPLOY Jobs (Non-Prod)/uat | uat | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/CARS/DEPLOY Jobs (Non-Prod)/uat2 | uat2 | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/CARS/DEV - CI Jobs | DEV - CI Jobs | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/CARS/DEV - CI Jobs/CARS Online | CARS Online | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/CARS/DEV - CI Jobs/Consumer | Consumer | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/CARS/DEV - CI Jobs/Get Doc | Get Doc | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/CARS/DEV - CI Jobs/Member WS | Member WS | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/CARS/DEV - CI Jobs/Non Member WS | Non Member WS | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/CARS/DEV - CI Jobs/Save Doc | Save Doc | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/CARS/DEV - CI Jobs/Scheduler DB | Scheduler DB | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/CARS/MISC Jobs | MISC Jobs | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/CARS/OLD JOBS | OLD JOBS | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/CARS/OLD JOBS/OBSOLETE - JBOSS - NON-Prod Deployment Jobs | OBSOLETE - JBOSS - NON-Prod Deployment Jobs | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/CARS/OLD JOBS/OBSOLETE - JBOSS - NON-Prod Deployment Jobs/Consumer | Consumer | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/CARS/OLD JOBS/OBSOLETE - NON-Prod Deployment Jobs - Liberty | OBSOLETE - NON-Prod Deployment Jobs - Liberty | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/CARS/OLD JOBS/OBSOLETE - NON-Prod Deployment Jobs | OBSOLETE - NON-Prod Deployment Jobs | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/CARS/OLD JOBS/OBSOLETE - START - STOP Jobs | OBSOLETE - START - STOP Jobs | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/CARS/PROD Jobs - CAUTION | PROD Jobs - CAUTION | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/CARS/PROD Jobs - CAUTION/JBOSS - PROD Deployment Jobs | JBoss - PROD Deployment Jobs | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/CARS/PROD Jobs - CAUTION/Liberty PROD Jobs | Liberty PROD Jobs | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/CARS/PROD Jobs - CAUTION/NEW | NEW | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/CARS/Security | Security | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/HPAS-ARS-APPS | HPAS-ARS-APPS | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/HPAS-ARS-APPS/CARS | CARS | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/HPAS-ARS-APPS/CPS | CPS | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/HPAS-ARS-APPS/HPUB | HPUB | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/HPAS-ARS-APPS/ICE | ICE | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/HPAS-ARS-APPS/PSP | PSP | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/HPUB | HPUB | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/HPUB/BUILD JOBS | BUILD JOBS | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/HPUB/HPUB - NONProd - Processfulfillment Deployment | HPUB - NONProd - Processfulfillment Deployment | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/HPUB/Non-PROD-Liberty-Deployment | Non-PROD-Liberty-Deployment | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/HPUB/Non-PROD-Liberty-Start_and_Stop | Non-PROD-Liberty-Start_and_Stop | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/HPUB/PROD - DEPLOY | PROD - DEPLOY | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/HPUB/Security_Scan | Security Scan | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/ICE-PROD | ICE-PROD | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/ICE-PROD/Azure-Migration | Azure-Migration | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/ICE | ICE | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/ICE/AZ-Migration | Azure Migration | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/ICE/Azure-DEV | Azure-DEV | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/ICE/Azure-PERF | Azure-PERF | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/ICE/Azure-QA | Azure-QA | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/ICE/Azure-UAT | Azure-UAT | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/ICE/Azure-Utilities | Azure-Utilities | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/ICE/Azure-Utilities/New-Automation-Pipelines | New-Automation-Pipelines | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/MEC | MEC | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/PSP | PSP | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/RDC-PROD | RDC-PROD | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/RDC | RDC | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/RDC/NAS_Mount_Folder | NAS_Mount_Folder | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/RDC/RDC_SERVER_PID_COUNT | RDC_SERVER_PID_COUNT | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/RDC/Restart_Scaler_Interactive_Environments_From_Scaler_Workflow | Restart_Scaler_Interactive_Environments_From_Scaler_Workflow | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/RDC/SSDM | SSDM | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-DMS/RDC/Stop_Start_All_Scaler_Interactive_Environments_Jobs_Folder | Stop_Start_All_Scaler_Interactive_Environments_Jobs_Folder | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-EBSS | HP-BIO-EBSS | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-EBSS/CCPE | CCPE | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-EBSS/CCPE/development | development | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-EBSS/CCPE/devops_release | DevOps Release | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-EBSS/CCPE/Velocity | Velocity | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-EBSS/commercialbilling | Commercial Billing SS | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-EBSS/commercialbilling/Development | Development | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-EBSS/commercialbilling/Devops_Release | DevOps Release | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-EBSS/COVID-21 | COVID-21 | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-EBSS/COVID-21/Development | Development | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-EBSS/COVID-21/DevOps_Release | DevOps_Release | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-EBSS/COVID-21/Velocity | Velocity | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-EBSS/Develop | Develop | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-EBSS/devops_poc | Brian POC | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-EBSS/devops_poc/shared_lib_testing | Shared library testing | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-EBSS/devops_poc/Testing_Job | Testing JOb | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-EBSS/EBSS-Utilities | EBSS-Utilities | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-EBSS/EBSS-Utilities/POC | POC | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-EBSS/ebss | EBSS | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-EBSS/ebss/development | Development | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-EBSS/ebss/devops_release | DevOps Release | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-EBSS/ebss/Velocity | Velocity | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-EBSS/gusto_cpa | Gusto / CPA | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-EBSS/gusto_cpa/Development | Development | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-EBSS/gusto_cpa/devops_release | DevOps Release | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-EBSS/medicare | Medicare | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-EBSS/medicare/development | Develop | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-EBSS/medicare/devops_release | Devops Release | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-EBSS/medicare/Velocity | Velocity | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-EBSS/POC | POC | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-EBSS/Smoke Test | Smoke Test | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-EBSS/Smoke Test/Smoke_QA_API | Smoke_QA_API | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-EBSS/sstest | sstest | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC | HP-BIO-KPMC | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/AutoSQLDeployment | AutoSQLDeployment | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/AutoSQLDeployment/DryRun | DryRun | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/AutoSQLDeployment/Release_Automation_Liquibase | Release_Automation_Liquibase | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-OFF | KPIF-OFF | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-OFF/KPMCCAM | KPMCCAM | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-OFF/KPMCCAM/Development | Development | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-OFF/KPMCCAM/Development_Obsolated | Development_Obsolated | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-OFF/KPMCCAM/DevOps_Release | DevOps_Release | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-OFF/KPMCCAM/DevOps_Release_obsolate | DevOps_Release_obsolate | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-OFF/KPMCDMS | KPMCDMS | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-OFF/KPMCDMS/Development | Development | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-OFF/KPMCDMS/Development/KPMC_KPIFOFF_ON_TestAutomation | KPMC_KPIFOFF_ON_TestAutomation | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-OFF/KPMCDMS/DevOps_Release | DevOps_Release | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-OFF/KPMCDMS/KPIF-ON-DMS | KPIF-ON-DMS | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-OFF/KPMCDMS/KPIF-ON-DMS/Development | Development | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-OFF/KPMCGSU | KPMCGSU | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-OFF/KPMCGSU/Development | Development | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-OFF/KPMCGSU/Devops_Release | Devops_Release | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-OFF/KPMCIntLayer | KPMCIntLayer | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-OFF/KPMCIntLayer/Development | Development | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-OFF/KPMCIntLayer/Devops_Release | Devops_Release | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-OFF/KPMCSS | KPMCSS | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-OFF/KPMCSS/Development | Development | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-OFF/KPMCSS/Devops_Release | Devops_Release | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-OFF/KPMCUserAuth | KPMCUserAuth | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-OFF/KPMCUserAuth/Development | Development | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-OFF/KPMCUserAuth/DevOps_Release | DevOps_Release | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON | KPIF-ON | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/BinderPayments | BinderPayments | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/BinderPayments/Development | Development | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/BinderPayments/DevOps_Release | DevOps_Release | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/IBM-Demo | IBM-Demo | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/il-fw-splunk-logclient | KPIF-ON obsolete | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/il-fw-splunk-logclient/il-fw-splunk-logclient | il-fw-splunk-logclient | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/il-fw-splunk-logclient/kpmc_cert_utility | azure-secrets-management | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/il-fw-splunk-logclient/KPMCCAM | KPMCCAM | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/il-fw-splunk-logclient/KPMCCAM/Development | Development | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/il-fw-splunk-logclient/KPMCCAM/Development/DevOps_Release | DevOps_Release | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/il-fw-splunk-logclient/KPMCCAM/Development/smoke_test | smoke_test | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/il-fw-splunk-logclient/KPMCCAM/DevOps_Release | DevOps_Release | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/il-fw-splunk-logclient/KPMCDMS | KPMCDMS | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/il-fw-splunk-logclient/KPMCDMS/Development | Development | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/il-fw-splunk-logclient/KPMCDMS/Development/smoke_test | Smoke_test | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/il-fw-splunk-logclient/KPMCDMS/DevOps_Release | DevOps_Release | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/il-fw-splunk-logclient/KPMCDMS/DevOps_Release/XXTest_job | XXTest_job | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/il-fw-splunk-logclient/KPMCDMS/KPIF-ON-DMS | KPIF-ON-DMS | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/il-fw-splunk-logclient/KPMCDMS/KPIF-ON-DMS/Development | Development | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/il-fw-splunk-logclient/KPMCGSU | KPMCGSU | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/il-fw-splunk-logclient/KPMCGSU/Development | Development  | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/il-fw-splunk-logclient/KPMCGSU/Development/Regression | Regression | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/il-fw-splunk-logclient/KPMCGSU/DevOps_Release | DevOps_Release | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/il-fw-splunk-logclient/KPMCGSU/Obsolated | Obsolated | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/il-fw-splunk-logclient/KPMCIntLayer | KPMCIntLayer | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/il-fw-splunk-logclient/KPMCIntLayer/Development | Development | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/il-fw-splunk-logclient/KPMCIntLayer/Development/Regression | Regression | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/il-fw-splunk-logclient/KPMCIntLayer/Development/smoke_test | smoke_test | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/il-fw-splunk-logclient/KPMCIntLayer/Development/smoke_test_service_level | smoke_test_service_level | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/il-fw-splunk-logclient/KPMCIntLayer/DevOps_Release | DevOps_Release | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/il-fw-splunk-logclient/KPMCSS | KPMCSS | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/il-fw-splunk-logclient/KPMCSS/Development | Development | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/il-fw-splunk-logclient/KPMCSS/DevOps_Release | DevOps_Release | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/il-fw-splunk-logclient/KPMCUserAuth | KPMCUserAuth | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/il-fw-splunk-logclient/KPMCUserAuth/Development | Development | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/il-fw-splunk-logclient/KPMCUserAuth/Development/Regression | Regression | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/il-fw-splunk-logclient/KPMCUserAuth/Development/smoke_test | smoke_test | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/il-fw-splunk-logclient/KPMCUserAuth/DevOps_Release | DevOps_Release | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/il-fw-splunk-logclient/SelfService | SelfService | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/il-fw-splunk-logclient/SelfService/Development | Development | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/il-fw-splunk-logclient/SelfService/DevOps_Release | DevOps_Release | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/il-fw-splunk-logclient/utilities | utilities | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/kpmc_cert_utility | azure-secrets-management | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCCAM | KPMCCAM | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCCAM/Development | Development | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCCAM/Development/DevOps_Release | DevOps_Release | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCCAM/Development/smoke_test | smoke_test | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCCAM/DevOps_Release | DevOps_Release | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCDMS | KPMCDMS | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCDMS/Development | Development | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCDMS/Development/smoke_test | Smoke_test | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCDMS/DevOps_Release | DevOps_Release | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCDMS/DevOps_Release/XXTest_job | XXTest_job | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCDMS/KPIF-ON-DMS | KPIF-ON-DMS | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCDMS/KPIF-ON-DMS/Development | Development | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCGSU | KPMCGSU | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCGSU/Development | Development  | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCGSU/Development/Regression | Regression | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCGSU/DevOps_Release | DevOps_Release | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCGSU/Obsolated | Obsolated | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCGSU/Velocity | Velocity | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCIntLayer | KPMCIntLayer | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCIntLayer/Development | Development | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCIntLayer/Development/OCP | OCP | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCIntLayer/Development/OCP/_to-be-deleted | _to-be-deleted | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCIntLayer/Development/OCP/_to-be-regrouped | _to-be-regrouped | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCIntLayer/Development/OCP/aci | aci | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCIntLayer/Development/OCP/aci/_to-be-done-later | _to-be-done-later | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCIntLayer/Development/OCP/cfgmgmt | cfgmgmt | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCIntLayer/Development/OCP/docMgmt | docMgmt | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCIntLayer/Development/OCP/ene | ene | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCIntLayer/Development/OCP/extracts | extracts | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCIntLayer/Development/OCP/gcp | gcp | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCIntLayer/Development/OCP/i1 | i1 | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCIntLayer/Development/OCP/kbsql | kbsql | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCIntLayer/Development/OCP/mcp | mcp | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCIntLayer/Development/Regression | Regression | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCIntLayer/Development/smoke_test | smoke_test | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCIntLayer/Development/smoke_test_service_level | smoke_test_service_level | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCIntLayer/DevOps_Release | DevOps_Release | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCIntLayer/Velocity | Velocity | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCSRE | KPMCSRE | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCSRE/Development | Development | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCSRE/DevOps_Release | DevOps_Release | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCSS | KPMCSS | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCSS/Development | Development | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCSS/DevOps_Release | DevOps_Release | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCUserAuth | KPMCUserAuth | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCUserAuth/Development | Development | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCUserAuth/Development/Regression | Regression | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCUserAuth/Development/smoke_test | smoke_test | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCUserAuth/DevOps_Release | DevOps_Release | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/KPMCUserAuth/Velocity | Velocity | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/SelfService | SelfService | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/SelfService/Development | Development | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/SelfService/DevOps_Release | DevOps_Release | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/SelfService/Velocity | Velocity | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPIF-ON/utilities | utilities | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMC-Utilities | KPMC-Utilities | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMC-Utilities/azure-secrets-management-obsolete | azure-secrets-management-obsolete | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMC-Utilities/CICD-Shared-Lib | CICD-Shared-Lib | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMC-Utilities/Config_Refresh_For_Release_Flags | Config_Refresh_For_Release_Flags | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMC-Utilities/DevOpsTest | DevOpsTest | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMC-Utilities/postgres-higher-level | postgres-higher-level | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMC-Utilities/testHPTS | testHPTS | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMC | KPMC | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMC/DevOps_Automation | DevOps_Automation | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMC/TestAutomation | TestAutomation | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMC/TestAutomation/Archive | Archive | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMC/TestAutomation/Archive/CA Commercial | CA Commercial | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMC/TestAutomation/Archive/KPIF Off | KPIF Off | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMC/TestAutomation/Archive/POC | POC | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMC/TestAutomation/Archive/PSUP_CA_Commercial | PSUP_CA_Commercial | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMC/TestAutomation/Archive/UST | UST | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMC/TestAutomation/Archive/UST_KPIFOFF | UST_KPIFOFF | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMC/TestAutomation/KPIFOFF | KPIFOFF | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMC/TestAutomation/KPIFOFF/KPIF_DEV_Regression | KPIFOFF_DEV_Regression | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMC/TestAutomation/KPIFOFF/KPIFOFF_DEV_SMOKE | KPIFOFF_DEV_SMOKE | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMC/TestAutomation/KPIFOFF/KPMC-DI-UI-SMOKE | KPMC-DI-UI-SMOKE | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMC/TestAutomation/KPIFOFF/MQV | MQV | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMC/TestAutomation/KPIFOFF/Protractor Migration | Protractor Migration | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMC/TestAutomation/KPIFOFF/UAT_SMOKE | UAT_SMOKE | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMC/TestAutomation/KPIFOFF_System_Capabilities | KPIFOFF_System_Capabilities | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMC/TestAutomation/KPIFON | KPIFON | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMC/TestAutomation/KPIFON/InSprint Automation | InSprint Automation | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMC/TestAutomation/KPIFON/InSprint Regression | InSprint Regression | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMC/TestAutomation/KPMC-Billing and Binder | KPMC-Billing and Binder | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMC/TestAutomation/UAT_CA_Commercial | UAT_CA_Commercial | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMC/TestAutomation/UAT_Multi_Group | UAT_Multi_Group | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMCCAM | KPMCCAM | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMCCAM/Development | Development | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMCCAM/DevOps_Release | DevOps_Release | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMCDMS | KPMCDMS | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMCDMS/Development | Development | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMCDMS/DevOps_Release | DevOps_Release | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMCDMS/KPMC_KPIFOFF_ON_TestAutomation | KPMC_KPIFOFF_ON_TestAutomation | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMCDMS/ObsolateFolder | ObsolateFolder | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMCGSU | KPMCGSU | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMCGSU/Development | Development  | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMCGSU/DevOps_Release | DevOps_Release | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMCGSU/DevOps_Release/Smoke_Service_POC | Smoke_Service_POC | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMCGSU/Obsolated | Obsolated | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMCGSU/POC | POC | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMCIntLayer | KPMCIntLayer | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMCIntLayer/Development | Development/ | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMCIntLayer/Devops_Release | Devops_Release | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMCIntLayer/Devops_Release/smoke_test_service_level | smoke_test_service_level | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMCIntLayer/obsolated | obsolated | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMCORMB | KPMCORMB | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMCORMB/Development | Development | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMCORMB/DevOps_Release | DevOps_Release | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMCSS | KPMCSS | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMCSS/Development | Development | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMCSS/DevOps_Release | DevOps_Release | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMCSS/obsolated | Obsolated | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMCSS/thilak-dont-usr | thilak-dont-usr | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMCUserAuth | KPMCUserAuth | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMCUserAuth/Development | Development | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMCUserAuth/DevOps_Release | DevOps_Release | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/KPMCUserAuth/Obsolated | Obsolated | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/MEDICARE | MEDICARE | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/MEDICARE/KPMCCAM | KPMCCAM | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/MEDICARE/KPMCCAM/Development | development | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/MEDICARE/KPMCCAM/DevOps_Release | DevOps_Release | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/QCP Reporting | QCP Reporting | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO-KPMC/Velocity | Velocity | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO | HP-BIO | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/CCS-TI | CCS-TI | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-BIO-BASE | HP-BIO-BASE | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-BIO-BASE/Cycle_Dev | Cycle_Dev | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-BIO-EMWS | HP-BIO-EMWS | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-BIO-HPTS | HP-BIO-HPTS | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-BIO-HPTS/AA DevOps Folder | AA DevOps POC | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-BIO-HPTS/BPRS | BPRS | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-BIO-HPTS/CASA_ABVT | CASA | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-BIO-HPTS/CHATS-vs-Webservice | CHATS-vs-Webservice | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-BIO-HPTS/EPP | EPP | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-BIO-HPTS/HP-BIO-MAG | HP-BIO-MAG | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-BIO-HPTS/HP-BIO-PartC | HP-BIO-PartC | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-BIO-HPTS/HPTS-BIO-FSCM | HPTS-BIO-FSCM | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-BIO-HPTS/HPTS-BSOR | HPTS-BSOR | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-BIO-HPTS/HPTS-DMS | HPTS-DMS | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-BIO-HPTS/HPTS-DW | HPTS-DW | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-BIO-HPTS/HPTS-DW/CDW-Automation | CDW-Automation | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-BIO-HPTS/HPTS-DW/KPMC-DWR | KPMC DWR automation | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-BIO-HPTS/HPTS-Formworks | HPTS-Formworks | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-BIO-HPTS/HPTS-PLATFORM-AISVC | HPTS-PLATFORM-AISVC | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-BIO-HPTS/HPTS_CFMP_Squad | CFMP_Sanity_tests | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-BIO-HPTS/HPTS_DMS | HPTS_DMS | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-BIO-HPTS/HPTS_DocManagement | HPTS_DocManagement | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-BIO-HPTS/HPTS_DST | HPTS_DST | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-BIO-HPTS/HPTS_E2BK | HPTS_E2BK | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-BIO-HPTS/HPTS_EMWS | HPTS_EMWS | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-BIO-HPTS/HPTS_EMWS_Regression | HPTS_EMWS_Regression | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-BIO-HPTS/HPTS_JKP | HPTS_JKP | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-BIO-HPTS/HPTS_JKP_Medicare | HPTS_JKP_Medicare | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-BIO-HPTS/HPTS_MBE | HPTS_MBE | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-BIO-HPTS/HPTS_PERF | HPTS_PERF | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-BIO-HPTS/HPTS_SMU | HPTS_SMU | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-BIO-HPTS/HPTS_SPAS | HPTS_SPAS | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-BIO-HPTS/HPTS_TIM | TIM | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-BIO-HPTS/HTPS-MEC | MEC | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-BIO-HPTS/ICE_Webservices | ICE_Webservices | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-BIO-HPTS/IVRvsWebService | IVRvsWebService | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-BIO-HPTS/METRS | METRS | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-BIO-HPTS/METRS_SLA | METRS_Regresssion | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-BIO-HPTS/MFS_MedicareFilingSystem | MFS_MedicareFilingSystem | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-BIO-HPTS/TI_Reports | TI_Reports | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-BIO-HPTS/TIM SNAM | SNAM | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-BIO-KPCC-Automation | HP-BIO-KPCC-Automation | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-BIO-MDE | HP-BIO-MDE | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-BIO-National Electronic Imaging and Workflow System | HP-BIO-NEIWS | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-BIO-NCCS | HP-BIO-NCCS | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-Claims-CMS | HP-Claims-CMS | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-Claims-HPPDM | HP-Claims-HPPDM | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-MKTG-MEDICARE-SYS-CFMP | HP-MKTG-MEDICARE-SYS-CFMP | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-MKTG-MEDICARE-SYS-EDAM | HP-MKTG-MEDICARE-SYS-EDAM | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-MKTG-MEDICARE-SYS-MA | HP-MKTG-MEDICARE-SYS-MA | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-MKTG-MEDICARE-SYS-PMDI | HP-MKTG-MEDICARE-SYS-PMDI | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-SALES-MKTG-SYS-GMT | HP-SALES-MKTG-SYS-GMT | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-SALES-MKTG-SYS-MTSS | HP-SALES-MKTG-SYS-MTSS | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-SALES-MKTG-SYS-SEE | HP-SALES-MKTG-SYS-SEE | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP-SALES-MKTG-SYS-SEE/Bluemix | Bluemix | class com.cloudbees.hudson.plugins.folder.Folder
+HP-BIO/HP_BIO_HPSQE_BPRS | HP_BIO_HPSQE_BPRS | class com.cloudbees.hudson.plugins.folder.Folder
+HP-SALES-MKTG-SYS-SMU | HP-SALES-MKTG-SYS-SMU | class com.cloudbees.hudson.plugins.folder.Folder
+HP-SALES-MKTG-SYS-SMU/Az-SMU | Az-SMU | class com.cloudbees.hudson.plugins.folder.Folder
+HP-SALES-MKTG-SYS | HP-SALES-MKTG-SYS | class com.cloudbees.hudson.plugins.folder.Folder
+HP-SALES-MKTG-SYS/BPRS | BPRS | class com.cloudbees.hudson.plugins.folder.Folder
+HP-SALES-MKTG-SYS/BSOR | BSOR | class com.cloudbees.hudson.plugins.folder.Folder
+HP-SALES-MKTG-SYS/HP-BIO-SNAP | HP-BIO-SNAP | class com.cloudbees.hudson.plugins.folder.Folder
+HP-SALES-MKTG-SYS/SGAPI | SGAPI | class com.cloudbees.hudson.plugins.folder.Folder
+HP-SALES-MKTG-SYS/SGAPI/az-services | az-services | class com.cloudbees.hudson.plugins.folder.Folder
+HP-SALES-MKTG-SYS/SGAPI/LiqibaseTest | LiqibaseTest | class com.cloudbees.hudson.plugins.folder.Folder
+HP-SALES-MKTG-SYS/SGAPI/SGAPI_DR | SGAPI_DR | class com.cloudbees.hudson.plugins.folder.Folder
+HP-SALES-MKTG-SYS/SGAPI/SGAPI_PROD | SGAPI_PROD | class com.cloudbees.hudson.plugins.folder.Folder
+HP-SALES-MKTG-SYS/SGAPI/SGAPI_RELEASE | SGAPI_RELEASE | class com.cloudbees.hudson.plugins.folder.Folder
+HP-SALES-MKTG-SYS/SNAP | SNAP | class com.cloudbees.hudson.plugins.folder.Folder
+HPAS-NONDMS-ARS-APPS | HPAS-NONDMS-ARS-APPS | class com.cloudbees.hudson.plugins.folder.Folder
+HPAS-NONDMS-ARS-APPS/HPAS-ARS-NON-DMS |  HPAS-ARS-NON-DMS | class com.cloudbees.hudson.plugins.folder.Folder
+HPAS-NONDMS-ARS-APPS/HPAS-ARS-NON-DMS/BrokerServices | BrokerServices | class com.cloudbees.hudson.plugins.folder.Folder
+HPAS-NONDMS-ARS-APPS/HPAS-ARS-NON-DMS/CCM | CCM | class com.cloudbees.hudson.plugins.folder.Folder
+HPAS-NONDMS-ARS-APPS/HPAS-ARS-NON-DMS/CFMP | CFMP | class com.cloudbees.hudson.plugins.folder.Folder
+HPAS-NONDMS-ARS-APPS/HPAS-ARS-NON-DMS/Exchange | Exchange | class com.cloudbees.hudson.plugins.folder.Folder
+HPAS-NONDMS-ARS-APPS/HPAS-ARS-NON-DMS/SEE | SEE | class com.cloudbees.hudson.plugins.folder.Folder
+HPAS-NONDMS-ARS-APPS/HPAS-ARS-NON-DMS/SMU | SMU | class com.cloudbees.hudson.plugins.folder.Folder
+HPDT | HPDT | class com.cloudbees.hudson.plugins.folder.Folder
+HPDT/CASA | CASA | class com.cloudbees.hudson.plugins.folder.Folder
+HPDT/CASA/HPCASA-SYNAPSE-MIGRATION | HPCASA-SYNAPSE-MIGRATION | class com.cloudbees.hudson.plugins.folder.Folder
+HPDT/hpdt_project_deploy_services | hpdt_project_deploy_services | class com.cloudbees.hudson.plugins.folder.Folder
+HPDT/hpdt_project_deploy_services/ais | ais | class com.cloudbees.hudson.plugins.folder.Folder
+HPDT/hpdt_project_deploy_services/ais/deploy_azure_services | deploy_azure_services | class com.cloudbees.hudson.plugins.folder.Folder
+HPDT/hpdt_project_deploy_services/bdmdi | bdmdi | class com.cloudbees.hudson.plugins.folder.Folder
+HPDT/hpdt_project_deploy_services/casa | casa | class com.cloudbees.hudson.plugins.folder.Folder
+HPDT/hpdt_project_deploy_services/mera | mera | class com.cloudbees.hudson.plugins.folder.Folder
+HPDT/hpdt_project_deploy_services/mera/services | services | class com.cloudbees.hudson.plugins.folder.Folder
+HPDT/hpdt_project_deploy_services/mrs | mrs | class com.cloudbees.hudson.plugins.folder.Folder
+HPDT/hpdt_project_deploy_services/tip | tip | class com.cloudbees.hudson.plugins.folder.Folder
+HPDT/hpdt_project_deploy_services/tip/deploy_services | deploy_services | class com.cloudbees.hudson.plugins.folder.Folder
+HPDT/MEPDR | MEPDR | class com.cloudbees.hudson.plugins.folder.Folder
+HPDT/MEPDR/Azure_Data_Factory_Deployments | Azure_Data_Factory_Deployments | class com.cloudbees.hudson.plugins.folder.Folder
+HPDT/QPA | QPA | class com.cloudbees.hudson.plugins.folder.Folder
+HPDT/SYNAPSE | SYNAPSE_DATABASES | class com.cloudbees.hudson.plugins.folder.Folder
+HPDT/Test_Pipelines | TEST_PIPELINES | class com.cloudbees.hudson.plugins.folder.Folder
+HPDT/TIP | TIP | class com.cloudbees.hudson.plugins.folder.Folder
+HPDT/TIP/Azure_Data_Factory_Deployments | Azure_Data_Factory_Deployments | class com.cloudbees.hudson.plugins.folder.Folder
+HPTS-TAS | HPTS-TAS | class com.cloudbees.hudson.plugins.folder.Folder
+HPTS-TAS/IDP-HPTS-POC | IDP-HPTS-POC | class com.cloudbees.hudson.plugins.folder.Folder
+HPTS-TAS/Liquibase | Liquibase | class com.cloudbees.hudson.plugins.folder.Folder
+HPTS-TAS/Liquibase/KARS-HPTS-POC | KARS-HPTS-POC | class com.cloudbees.hudson.plugins.folder.Folder
+HPTS-TAS/Liquibase/MSSQL | MSSQL | class com.cloudbees.hudson.plugins.folder.Folder
+HPTS-TAS/NCE | NCE | class com.cloudbees.hudson.plugins.folder.Folder
+HPTS-TAS/SNAP | SNAP | class com.cloudbees.hudson.plugins.folder.Folder
+IaaS-SelfService | IaaS-SelfService | class com.cloudbees.hudson.plugins.folder.Folder
+IaaS-SelfService/adept | adept | class com.cloudbees.hudson.plugins.folder.Folder
+IaaS-SelfService/aspen | aspen | class com.cloudbees.hudson.plugins.folder.Folder
+IaaS-SelfService/chestnut | chestnut | class com.cloudbees.hudson.plugins.folder.Folder
+IaaS-SelfService/multi-tenant | multi-tenant | class com.cloudbees.hudson.plugins.folder.Folder
+IaaS-SelfService/nextgen | staging | class com.cloudbees.hudson.plugins.folder.Folder
+IaaS-SelfService/staging | rhelupgrade | class com.cloudbees.hudson.plugins.folder.Folder
+IaaS-SelfService/staging/nextgen | rhel8 | class com.cloudbees.hudson.plugins.folder.Folder
+IAM-Devops | IAM-Devops | class com.cloudbees.hudson.plugins.folder.Folder
+ICCA | ICCA | class com.cloudbees.hudson.plugins.folder.Folder
+Insights_Dashboard | Insights_Dashboard | class com.cloudbees.hudson.plugins.folder.Folder
+IT Operations | IT Operations | class com.cloudbees.hudson.plugins.folder.Folder
+IT Operations/BigPanda Event Management | BigPanda Event Management | class com.cloudbees.hudson.plugins.folder.Folder
+ITO-IPS-DMS | ITO-IPS-DMS | class com.cloudbees.hudson.plugins.folder.Folder
+ITO-IPS-DMS/Security Compliance | Security Compliance | class com.cloudbees.hudson.plugins.folder.Folder
+ITO-IPS-DMS/Security Compliance/Sonar | Sonar | class com.cloudbees.hudson.plugins.folder.Folder
+ITO-IPS-DMS/Security Compliance/Sonar/DEV | DEV | class com.cloudbees.hudson.plugins.folder.Folder
+ITO-IPS-DMS/Security Compliance/Sonar/PROD | PROD | class com.cloudbees.hudson.plugins.folder.Folder
+ITO-IPS-DMS/Security Compliance/Sonar/UAT | UAT | class com.cloudbees.hudson.plugins.folder.Folder
+KP-digital-chatbots | KP-digital-chatbots | class com.cloudbees.hudson.plugins.folder.Folder
+KP-digital-chatbots/BCP | BCP | class com.cloudbees.hudson.plugins.folder.Folder
+KP-digital-chatbots/BCP/chatbot | chatbot | class com.cloudbees.hudson.plugins.folder.Folder
+kp.org_sandbox | kp.org_sandbox | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP | KPD-DAIP | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-DS | KPD-DAIP-DS | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework | KPD-DAIP-Framework | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/Ansible-Framework-deployment | Framework | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/Ansible-Framework-deployment/Airflow_N_ABC_SERVICES | Airflow_N_ABC_SERVICES | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/Ansible-Framework-deployment/Airflow_N_ABC_SERVICES/Airflow_Ansible_deployments | Airflow_Ansible_deployments | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/Ansible-Framework-deployment/Airflow_N_ABC_SERVICES/Airflow_Autostart_service_jobs | Airflow_Autostart_service_jobs | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/Ansible-Framework-deployment/Email_class_alert_test_job | Framework | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/Ansible-Framework-deployment/Email_class_alert_test_job/KPD-Framework-Build-Deployment | KPD Airflow Deployments | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/Ansible-Framework-deployment/Email_class_alert_test_job/Unused | Unused | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/Ansible-Framework-deployment/On-Prem | On-Prem | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/Ansible-Framework-deployment/On-Prem/PMUI | PMUI | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/Ansible-Framework-deployment/Unused | Unused | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/BenefitLoader | BenefitLoader | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/BMVM - Model Deployments | BMVM - Model Deployments | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/BMVM - Model Deployments/email-text-classifier-model | email-text-classifier-model | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/CDP-AKV-SYNC | CDP-AKV-SYNC | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/CHATBOTS | CHATBOTS | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/CHATBOTS/Dotnet | Dotnet Chatbots | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/CHATBOTS/nodejs | NodeJS Chatbots | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/CHATBOTS/Service | Service | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/ClickToChat | Click To Chat  | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/conv-ai-model | conv-ai-model | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/CosmosDBMonitoring | CosmosDBMonitoring | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/DataBricks | DataBricks | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/ECC | ECC | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/Event-Data-Receiver | Event-Data-Receiver | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/FHIR | FHIR | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/FitBit | FitBit | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/FitBit/Alerts | Alerts | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/FitBit/Ansible_Automation_Jobs | Ansible_Automation_Jobs | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/FitBit/Scheduled_Jobs | Scheduled_Jobs | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/FitBit/SQLPurging | SQLPurging | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/FitBit/Unused | Unused Jobs  | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/FitBit/Unused/Fitbit-VulnerablityScan | Fitbit-VulnerablityScan | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/FitBit/VariablePrint | VariablePrint | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/KPD-AKV-SYNC | KPD-AKV-SYNC | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/Marketo | Marketo | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/Marketo/EPP-Marketo | EPP-Marketo | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/Marketo/EPP-Marketo/NewVM | NewVM | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/Marketo/EPP-Marketo/OldVM | OldVM | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/Marketo/Vision_Essentials | Vision_Essentials | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/Marketo/Vision_Essentials/NewVM | NewVM | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/Marketo/Vision_Essentials/OldVM | OldVM | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/MedicationExtraction | MedicationExtraction | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/Member | Member | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/NEW_MKT | NEW_MKT | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/OPS_SELF_SERVICE_PIPELINES | OPS_SELF_SERVICE_PIPELINES | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/OPS_SELF_SERVICE_PIPELINES/DBX_DEV | DBX_DEV | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/OPS_SELF_SERVICE_PIPELINES/DBX_DEV/CCP_IDR | CCP_IDR | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/OPS_SELF_SERVICE_PIPELINES/DBX_DEV/CCP_LTD_CORE | CCP_LTD_CORE | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/OPS_SELF_SERVICE_PIPELINES/DBX_DEV/CDP_IDR | CDP_IDR | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/OPS_SELF_SERVICE_PIPELINES/DBX_DEV/CDP_LTD_CORE_CAMPAIGN | CDP_LTD_CORE_CAMPAIGN | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/OPS_SELF_SERVICE_PIPELINES/DBX_DEV/CURRENT_IDR | CURRENT_IDR | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/OPS_SELF_SERVICE_PIPELINES/DBX_DEV/RAW_REFINED | RAW_REFINED | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/OPS_SELF_SERVICE_PIPELINES/DBX_PROD | DBX_PROD | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/OPS_SELF_SERVICE_PIPELINES/DBX_PROD/CCP_IDR | CCP_IDR | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/OPS_SELF_SERVICE_PIPELINES/DBX_PROD/CCP_LTD_CORE | CCP_LTD_CORE | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/OPS_SELF_SERVICE_PIPELINES/DBX_PROD/CDP_IDR | CDP_IDR | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/OPS_SELF_SERVICE_PIPELINES/DBX_PROD/CDP_LTD_CORE_CAMPAIGN | CDP_LTD_CORE_CAMPAIGN | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/OPS_SELF_SERVICE_PIPELINES/DBX_PROD/RAW | RAW | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/OPS_SELF_SERVICE_PIPELINES/DBX_PROD/REFINED | REFINED | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/OPS_SELF_SERVICE_PIPELINES/DBX_UAT | DBX_UAT | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/OPS_SELF_SERVICE_PIPELINES/DBX_UAT/CCP_IDR | CCP_IDR | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/OPS_SELF_SERVICE_PIPELINES/DBX_UAT/CCP_LTD_CORE | CCP_LTD_CORE | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/OPS_SELF_SERVICE_PIPELINES/DBX_UAT/CDP_IDR | CDP_IDR | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/OPS_SELF_SERVICE_PIPELINES/DBX_UAT/CDP_LTD_CORE_CAMPAIGN | CDP_LTD_CORE_CAMPAIGN | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/OPS_SELF_SERVICE_PIPELINES/DBX_UAT/RAW_REFINED | RAW_REFINED | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/OPS_SELF_SERVICE_PIPELINES/PROD | PROD | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/OPS_SELF_SERVICE_PIPELINES/PROD/Airflow_Scheduler_Logs | Airflow_Scheduler_Logs | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/OPS_SELF_SERVICE_PIPELINES/PROD/Airflow_Scheduler_Restart | Airflow_Scheduler_Restart | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/OPS_SELF_SERVICE_PIPELINES/PROD/Airflow_Worker_Restart | Airflow_Worker_Restart | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/OPS_SELF_SERVICE_PIPELINES/PROD/App_Meta_DB | App_Meta_DB | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/OPS_SELF_SERVICE_PIPELINES/PROD/ClearAirflowFailures | ClearAirflowFailures | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/OPS_SELF_SERVICE_PIPELINES/PROD/CosmosDB_Queries | CosmosDB_Queries | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/OPS_SELF_SERVICE_PIPELINES/PROD/CP_and_MAI_Compaction_Analysis | CP_and_MAI_Compaction_Analysis | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/OPS_SELF_SERVICE_PIPELINES/PROD/HDFS-Commands | HDFS-Commands | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/OPS_SELF_SERVICE_PIPELINES/PROD/Hive_Commands | Hive_Commands | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/OPS_SELF_SERVICE_PIPELINES/PROD/Purge_FILES_KPD_PROD | Purge_FILES_KPD_PROD | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/OPS_SELF_SERVICE_PIPELINES/PROD/Utils | Utils | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/OPS_SELF_SERVICE_PIPELINES/PROD/Watcher_Logs | Watcher_Logs | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/OPS_SELF_SERVICE_PIPELINES/PROD/Watcher_Restart | Watcher_Restart | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/OPS_SELF_SERVICE_PIPELINES/QA | QA | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/OPS_SELF_SERVICE_PIPELINES/QA/Airflow_Scheduler_Logs | Airflow_Scheduler_Logs | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/OPS_SELF_SERVICE_PIPELINES/QA/Airflow_Scheduler_Restart | Airflow_Scheduler_Restart | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/OPS_SELF_SERVICE_PIPELINES/QA/Airflow_Worker_Restart | Airflow_Worker_Restart | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/OPS_SELF_SERVICE_PIPELINES/QA/App_Meta_DB | App_Meta_DB | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/OPS_SELF_SERVICE_PIPELINES/QA/Delta_Purge_KPD_QA | Delta_Purge_KPD_QA | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/OPS_SELF_SERVICE_PIPELINES/QA/HDFS-Commands | HDFS-Commands | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/OPS_SELF_SERVICE_PIPELINES/QA/Watcher_Logs | Watcher_Logs | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/OPS_SELF_SERVICE_PIPELINES/QA/Watcher_Restart | Watcher_Restart | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/OPS_SELF_SERVICE_PIPELINES/Unused_Jobs | Unused_Jobs | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/RISANT | RISANT | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/Sync_Dags_Plugins | Sync_Dags_Plugins | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/TRINO | TRINO  | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/UAA | UAA | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/Validic-DataLoader | Validic-DataLoader | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/Validic-DataLoader/Scheduled_Jobs | Scheduled_Jobs | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Framework/Validic-DataLoader/Unused_job | Unused_job | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Infrastructure | KPD-DAIP-Infrastructure | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Infrastructure/Airflow | Airflow | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Infrastructure/AZCopy | AZCopy | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Infrastructure/ClusterScaling | ClusterScaling | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Infrastructure/Cronjobs | Cronjobs | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Infrastructure/Cronjobs/Content_Loader | Content_Loader | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Infrastructure/MAIDHCDP | MAIDHCDP | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Infrastructure/MAIDHCDP/ADF | ADF | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Infrastructure/MAIDHCDP/Airflow | Airflow | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Infrastructure/MAIDHCDP/AKV-SYNC | AKV-SYNC | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Infrastructure/MAIDHCDP/Azure-sql-db | Azure-sql-db | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Infrastructure/MAIDHCDP/Cosmos | Cosmos | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Infrastructure/MAIDHCDP/VM-Maintenance | VM-Maintenance | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Infrastructure/MAIDHCDP/VM-Maintenance/Airflow | Airflow | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Infrastructure/MAIDHCDP/VM-Maintenance/Airflow/Archive | Archive | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Infrastructure/MAIDHCDP/VM-Maintenance/Airflow/Archive/DEV | DEV | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Infrastructure/MAIDHCDP/VM-Maintenance/Airflow/Archive/PROD | PROD | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Infrastructure/MAIDHCDP/VM-Maintenance/Airflow/Archive/QA | QA | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Infrastructure/MAIDHCDP/VM-Maintenance/Automation-WIP | Automation-WIP | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Infrastructure/MAIDHCDP/VM-Maintenance/Automation-WIP/ADLS-List-Files | ADLS-List-Files | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Infrastructure/Neo4j | Neo4j | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Infrastructure/NifiBackupADLS | NifiBackupADLS | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-DAIP/KPD-DAIP-Infrastructure/Trino | Trino | class com.cloudbees.hudson.plugins.folder.Folder
+KPD-SDA | KPD-SDA | class com.cloudbees.hudson.plugins.folder.Folder
+KPD | KPD | class com.cloudbees.hudson.plugins.folder.Folder
+KPD/KPorg-Production-Operations | KPorg-Production-Operations | class com.cloudbees.hudson.plugins.folder.Folder
+KPD/SDA | SDA | class com.cloudbees.hudson.plugins.folder.Folder
+KPD/SOE | SOE | class com.cloudbees.hudson.plugins.folder.Folder
+KPD/SOE/botfactory-root-bot | botfactory-root-bot | class com.cloudbees.hudson.plugins.folder.Folder
+KPD/SOE/EHPE Bot Service | EHPE Bot Service | class com.cloudbees.hudson.plugins.folder.Folder
+KPD/SOE/rxbot | rxbot | class com.cloudbees.hudson.plugins.folder.Folder
+KPD/SOE/welcomebot | welcomebot | class com.cloudbees.hudson.plugins.folder.Folder
+KPIF-AMT | KPIF-AMT | class com.cloudbees.hudson.plugins.folder.Folder
+KPInterchange | KPInterchange | class com.cloudbees.hudson.plugins.folder.Folder
+KPInterchange/aks-samples | aks-samples | class com.cloudbees.hudson.plugins.folder.Folder
+KPInterchange/aks-samples/aks-deployment-jobs | aks-deployment-jobs | class com.cloudbees.hudson.plugins.folder.Folder
+KPInterchange/aks-samples/anusha-test-app | anusha-test-app | class com.cloudbees.hudson.plugins.folder.Folder
+KPInterchange/aks-samples/azure-services-delete-jobs | azure-services-delete-jobs | class com.cloudbees.hudson.plugins.folder.Folder
+KPInterchange/aks-samples/azure-services-jobs | azure-services-jobs | class com.cloudbees.hudson.plugins.folder.Folder
+KPInterchange/aks-samples/kpcloudstarter-samples | kpcloudstarter-samples | class com.cloudbees.hudson.plugins.folder.Folder
+KPInterchange/Azure-TechnologyIncubation | Azure-TechnologyIncubation | class com.cloudbees.hudson.plugins.folder.Folder
+KPInterchange/Jenkins-Shared-Library-Tests | Jenkins-Shared-Library-Tests | class com.cloudbees.hudson.plugins.folder.Folder
+KPInterchange/Jenkins-Shared-Library-Tests/autoscaling | autoscaling | class com.cloudbees.hudson.plugins.folder.Folder
+KPInterchange/Jenkins-Shared-Library-Tests/Build Tests | Build Tests | class com.cloudbees.hudson.plugins.folder.Folder
+KPInterchange/Jenkins-Shared-Library-Tests/Config Tests | Config Tests | class com.cloudbees.hudson.plugins.folder.Folder
+KPInterchange/Jenkins-Shared-Library-Tests/Cups Test | Cups Test | class com.cloudbees.hudson.plugins.folder.Folder
+KPInterchange/Jenkins-Shared-Library-Tests/Deployment_Tests | Deployment_Tests | class com.cloudbees.hudson.plugins.folder.Folder
+KPInterchange/Komal-Work | Komal-Work | class com.cloudbees.hudson.plugins.folder.Folder
+KPInterchange/kp-cloud-nexus-test | kp-cloud-nexus-test | class com.cloudbees.hudson.plugins.folder.Folder
+KPInterchange/kubeops-samples | kubeops-samples | class com.cloudbees.hudson.plugins.folder.Folder
+KPInterchange/kubeops-samples/azure-services-jobs | azure-services-jobs | class com.cloudbees.hudson.plugins.folder.Folder
+KPInterchange/niranjan-test | niranjan-test | class com.cloudbees.hudson.plugins.folder.Folder
+KPInterchange/puni | puni | class com.cloudbees.hudson.plugins.folder.Folder
+KPInterchange/rcare_poc | Receive Care PoC  | class com.cloudbees.hudson.plugins.folder.Folder
+KPInterchange/ReceiveCare | ReceiveCare | class com.cloudbees.hudson.plugins.folder.Folder
+KPInterchange/Sahithi Testing | Sahithi Testing | class com.cloudbees.hudson.plugins.folder.Folder
+KPInterchange/Sample-Apps-Bmx-Public | Sample-Apps-Bmx-Public | class com.cloudbees.hudson.plugins.folder.Folder
+KPInterchange/smu-public | Smu-public | class com.cloudbees.hudson.plugins.folder.Folder
+KPInterchange/sudhakar | sudhakar | class com.cloudbees.hudson.plugins.folder.Folder
+KPInterchange/test_public_bmx_hardik | test_public_bmx_hardik | class com.cloudbees.hudson.plugins.folder.Folder
+KPInterchange/vl-jobs | vl-jobs | class com.cloudbees.hudson.plugins.folder.Folder
+KPIT | KPIT | class com.cloudbees.hudson.plugins.folder.Folder
+KPMARKETING | KPMARKETING | class com.cloudbees.hudson.plugins.folder.Folder
+KPMARKETING/Milkyway2019 | Milkyway2019 | class com.cloudbees.hudson.plugins.folder.Folder
+KPMC | KPMCGSU | class com.cloudbees.hudson.plugins.folder.Folder
+KPMC_Hyperdrive_Automation | KPMC_Hyperdrive_Automation | class com.cloudbees.hudson.plugins.folder.Folder
+Kporg-Platform-Engineering | Kporg-Platform-Engineering | class com.cloudbees.hudson.plugins.folder.Folder
+Kporg-Platform-Engineering/AEM | AEM | class com.cloudbees.hudson.plugins.folder.Folder
+Kporg-Platform-Engineering/AEM/AEM Blue Green Deploy | AEM Blue Green Deploy | class com.cloudbees.hudson.plugins.folder.Folder
+Kporg-Platform-Engineering/Akamai | Akamai | class com.cloudbees.hudson.plugins.folder.Folder
+Kporg-Platform-Engineering/AKS | AKS | class com.cloudbees.hudson.plugins.folder.Folder
+Kporg-Platform-Engineering/Cert Management | Cert Management  | class com.cloudbees.hudson.plugins.folder.Folder
+Kporg-Platform-Engineering/Cert Management/Development | Development | class com.cloudbees.hudson.plugins.folder.Folder
+Kporg-Platform-Engineering/Components_Reports | Components_Reports | class com.cloudbees.hudson.plugins.folder.Folder
+Kporg-Platform-Engineering/Databases | Databases | class com.cloudbees.hudson.plugins.folder.Folder
+Kporg-Platform-Engineering/Deploy_Jobs | Deploy Jobs | class com.cloudbees.hudson.plugins.folder.Folder
+Kporg-Platform-Engineering/F5 | F5 | class com.cloudbees.hudson.plugins.folder.Folder
+Kporg-Platform-Engineering/F5/cms-automation | CMS Self-Service | class com.cloudbees.hudson.plugins.folder.Folder
+Kporg-Platform-Engineering/F5/develop | develop | class com.cloudbees.hudson.plugins.folder.Folder
+Kporg-Platform-Engineering/F5/set-traffic-state | set-traffic-state | class com.cloudbees.hudson.plugins.folder.Folder
+Kporg-Platform-Engineering/IHS_Patching | IHS Patching | class com.cloudbees.hudson.plugins.folder.Folder
+Kporg-Platform-Engineering/Inventory | Inventory | class com.cloudbees.hudson.plugins.folder.Folder
+Kporg-Platform-Engineering/KP_Locator | KP Locator | class com.cloudbees.hudson.plugins.folder.Folder
+Kporg-Platform-Engineering/PaaS | PaaS | class com.cloudbees.hudson.plugins.folder.Folder
+Kporg-Platform-Engineering/Utilities | Utilities | class com.cloudbees.hudson.plugins.folder.Folder
+Kporg-Platform-Engineering/Vanity-Self-Service | Vanity Self Service | class com.cloudbees.hudson.plugins.folder.Folder
+Kporg-Platform-Engineering/WAS_Patching | WAS Patching | class com.cloudbees.hudson.plugins.folder.Folder
+kporg-site-transition | kporg-site-transition | class com.cloudbees.hudson.plugins.folder.Folder
+kporg-site-transition/DR-Non-Prod | DR-Non-Prod | class com.cloudbees.hudson.plugins.folder.Folder
+kporg-site-transition/Non-prod | Non-prod | class com.cloudbees.hudson.plugins.folder.Folder
+kporg-site-transition/Prod | Prod | class com.cloudbees.hudson.plugins.folder.Folder
+mdw_extract | mdw_extract | class com.cloudbees.hudson.plugins.folder.Folder
+mdw_extract/mdw_extract_deploy_services | mdw_extract_deploy_services | class com.cloudbees.hudson.plugins.folder.Folder
+mdw_extract/mdw_extract_deploy_services/coba | coba | class com.cloudbees.hudson.plugins.folder.Folder
+mdw_extract/mdw_extract_deploy_services/coba/master | master | class com.cloudbees.hudson.plugins.folder.Folder
+MSFT | MSFT | class com.cloudbees.hudson.plugins.folder.Folder
+MSFT/az-tnt-synapse | az-tnt-synapse | class com.cloudbees.hudson.plugins.folder.Folder
+MSFT/az-tnt-synapse/pl-audit-monitor-soln | pl-audit-monitor-soln | class com.cloudbees.hudson.plugins.folder.Folder
+MSFT/az-tnt-synapse/pl-deploy-synapse-rls-cls-soln | pl-deploy-synapse-rls-cls-soln | class com.cloudbees.hudson.plugins.folder.Folder
+NCAP | NCAP | class com.cloudbees.hudson.plugins.folder.Folder
+NCAP/NCAP-Az | NCAP-Az | class com.cloudbees.hudson.plugins.folder.Folder
+NCAP/NCAP-Az/AZDF | AZDF | class com.cloudbees.hudson.plugins.folder.Folder
+NCAP/NCAP-Az/Azure Deployer | Azure Services Deployer | class com.cloudbees.hudson.plugins.folder.Folder
+NCAP/NCAP-Az/Azure Deployer/Azure Data Factory Deployer | Azure Data Factory Deployer | class com.cloudbees.hudson.plugins.folder.Folder
+NCAP/NCAP-Az/Azure Deployer/Azure Key Vault Services | Azure Key Vault Services | class com.cloudbees.hudson.plugins.folder.Folder
+NCAP/NCAP-Az/Azure Deployer/Azure Key Vault Services/Azure AKV Secrets View | Azure AKV Secrets View | class com.cloudbees.hudson.plugins.folder.Folder
+NCAP/NCAP-Az/Azure Deployer/Storage Containers | Storage Containers | class com.cloudbees.hudson.plugins.folder.Folder
+NCAP/NCAP-Az/Don't use Azure Data Factory | Don't use Azure Data Factory | class com.cloudbees.hudson.plugins.folder.Folder
+NCAP/NCAP-Az/HCG | HCG | class com.cloudbees.hudson.plugins.folder.Folder
+NCAP/NCAP-Az/Liquidbase DBX | ASDLiquidbase | class com.cloudbees.hudson.plugins.folder.Folder
+NCAP/NCAP-Az/NCAP_Synapse_01 | NCAP_Synapse_01 | class com.cloudbees.hudson.plugins.folder.Folder
+NCAP/NCAP-Az/NCAP_Synapse_01/Synapse Branches by Month | Synapse Branches by Month | class com.cloudbees.hudson.plugins.folder.Folder
+NCAP/NCAP-Az/Test Data Management | Test Data Management | class com.cloudbees.hudson.plugins.folder.Folder
+NCAP/NCAP-Az/Test_Automate | Test_Automate | class com.cloudbees.hudson.plugins.folder.Folder
+OCP-Releases | OCP-Releases | class com.cloudbees.hudson.plugins.folder.Folder
+OCP-Releases/helm | helm | class com.cloudbees.hudson.plugins.folder.Folder
+PaaS-SelfService | PaaS-SelfService | class com.cloudbees.hudson.plugins.folder.Folder
+PZN | PZN | class com.cloudbees.hudson.plugins.folder.Folder

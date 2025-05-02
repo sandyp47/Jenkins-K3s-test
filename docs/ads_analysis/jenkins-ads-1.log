@@ -1,0 +1,85 @@
+  13010 HCA
+   8258 MedicalInformatics
+   5923 Video Visits Evolution
+   3519 eConsult
+   1754 PDT
+   1521 KP HealthHub
+   1455 Virtual_Care
+   1447 Pharmacy
+   1248 ePIMS
+   1230 DME
+    911 CCCS
+    871 KPHC
+    621 APIE Portal
+    507 RDHM
+    430 CIA
+    391 CHAMAI SAL
+    377 KPX
+    304 KPWA_QA
+    292 KPWA_UI
+    227 OPIP
+    216 eVisits
+    215 KPWA_Sandbox
+    215 Attendance_Tracking_Management
+    200 NW_FASET
+    197 EOA
+    179 synthetic-tx-monitoring
+    176 eCIMS
+    165 KPWA_DexCare
+    150 MHW
+    144 Member360
+    134 ADS-Transcare
+    124 AMDS
+    114 PDX_IMG
+    112 NPA
+    109 CPM
+    106 Psychiatry_Panel_Management
+    105 CVA
+     77 Telehealth
+     77 CSB
+     70 Sandbox
+     61 Emerging Therapeutics
+     60 GEMS
+     58 KPWA_Panel_Manager
+     42 Common Libs
+     38 Remote Patient Monitoring Mobile
+     37 AADUR
+     34 PERC
+     31 PMD
+     29 ePIMS-Modernization
+     29 P2CKP
+     28 KPGPT
+     28 Devops
+     22 NWAPC_PanelSupportTool
+     18 EICC
+     17 VoiceMedication
+     13 Panel-Management-Team
+     12 KP ML Platform
+     11 QMS
+     10 RNA
+     10 EMS-CM
+      9 POS
+      9 InterregionalDataUseCenter_DUC
+      9 EDI
+      8 Salesforce OYNX POC
+      8 Pharmacy_IT_OPS
+      5 POE_Services
+      5 Orion QA Mobile
+      5 KPSOM
+      4 XI52
+      4 SAMDL
+      4 PSETeamDashboard
+      3 RMIS
+      3 POE
+      3 CloudMedX
+      2 SBC
+      2 OPAP
+      2 CDTS_ANALYTICS_MA_BI
+      2 AMDS-OS
+      2 ADS Crowd Test
+      1 testjob | testjob | class org.jenkinsci.plugins.workflow.job.WorkflowJob
+      1 testfreestyle | testfreestyle | class hudson.model.FreeStyleProject
+      1 test | test | class org.jenkinsci.plugins.workflow.job.WorkflowJob
+      1 kpwa-jenkins-pipeline
+      1 Testing Rbac | Testing Rbac | class org.jenkinsci.plugins.workflow.job.WorkflowJob
+      1 HP-BIO-SNAP

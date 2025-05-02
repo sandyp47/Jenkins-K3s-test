@@ -1,0 +1,71 @@
+   1990 HCA/Github Video Visit CI - HCA
+   1662 HCA/HCA-Azure-CD
+   1507 HCA/Github Video Visit CD - HCA
+   1289 HCA/Github Video Visit CI - KPVV
+   1163 HCA/KPVV-Azure-CD
+   1090 HCA/Github Video Visit CD - KPVV
+    960 HCA/KPVV_CI_SCRUM
+    935 HCA/HCA-Bluemix
+    921 HCA/HCA_CI
+    552 HCA/HCA_AZ_RELEASE
+    509 HCA/HCA-Bluemix-CD
+    376 HCA/KPVV_CI
+     28 HCA/Azure-Cert
+     11 HCA/VVE-CERT
+      2 HCA/HCA-Azure-Cert
+      1 HCA/VVE-CERT | VVE-CERT | class jenkins.branch.OrganizationFolder
+      1 HCA/KPVV_CI_SCRUM | KPVV-Azure-CI-SCRUM | class jenkins.branch.OrganizationFolder
+      1 HCA/KPVV_CI | KPVV-Azure-CI-REL | class jenkins.branch.OrganizationFolder
+      1 HCA/KPVV-Azure-CD | KPVV-Azure-CD | class jenkins.branch.OrganizationFolder
+      1 HCA/HCA_CI | HCA-Azure-CI-SCRUM | class jenkins.branch.OrganizationFolder
+      1 HCA/HCA_AZ_RELEASE | HCA-Azure-CI-REL | class jenkins.branch.OrganizationFolder
+      1 HCA/HCA-Bluemix-CD | HCA-Bluemix-CD | class jenkins.branch.OrganizationFolder
+      1 HCA/HCA-Bluemix | HCA-Bluemix-CI | class jenkins.branch.OrganizationFolder
+      1 HCA/HCA-Azure-Cert | HCA-Azure-Cert | class jenkins.branch.OrganizationFolder
+      1 HCA/HCA-Azure-CD | HCA-Azure-CD | class jenkins.branch.OrganizationFolder
+   5562 MedicalInformatics/nQuiry
+   1383 MedicalInformatics/SmartTriage-CI
+    418 MedicalInformatics/pl-resolver
+    354 MedicalInformatics/IAW
+    144 MedicalInformatics/Airflow
+    103 MedicalInformatics/DataScience-CI
+     72 MedicalInformatics/EDAS
+     53 MedicalInformatics/nQuiryStaging
+     24 MedicalInformatics/DataScience-CD
+     22 MedicalInformatics/containers
+     12 MedicalInformatics/Clone-SMT-CI
+     10 MedicalInformatics/translation_service-CD
+      9 MedicalInformatics/SmartTriage-DS
+      8 MedicalInformatics/web-apps
+      8 MedicalInformatics/Devops
+      8 MedicalInformatics/DMA
+      8 MedicalInformatics/Covid Census
+      7 MedicalInformatics/Toolbar
+      5 MedicalInformatics/nQuiryPortal
+      4 MedicalInformatics/SmartTriage-K8s-POC
+      4 MedicalInformatics/Sample
+      3 MedicalInformatics/nquiry-portal
+      2 MedicalInformatics/Scribe
+      1 MedicalInformatics/translation_service-CI | translation_service-CI | class org.jenkinsci.plugins.workflow.multibranch.WorkflowMultiBranchProject
+      1 MedicalInformatics/translation_service-CI
+      1 MedicalInformatics/translation_service-CD | translation_service-CD | class org.jenkinsci.plugins.workflow.multibranch.WorkflowMultiBranchProject
+      1 MedicalInformatics/nQuiryScheduledTasks
+      1 MedicalInformatics/micro-services
+      1 MedicalInformatics/SmartTriage-Regression | SmartTriage-Regression | class org.jenkinsci.plugins.workflow.job.WorkflowJob
+      1 MedicalInformatics/SmartTriage-CI | SmartTriage-CI | class jenkins.branch.OrganizationFolder
+      1 MedicalInformatics/SmartTriage-CD | SmartTriage-CD | class org.jenkinsci.plugins.workflow.job.WorkflowJob
+      1 MedicalInformatics/SMTArchive | SMTArchive | class org.jenkinsci.plugins.workflow.job.WorkflowJob
+      1 MedicalInformatics/SMT-Monitoring-CD | SMT-Monitoring-CD | class org.jenkinsci.plugins.workflow.job.WorkflowJob
+      1 MedicalInformatics/DataScience-CI | DataScience-CI | class jenkins.branch.OrganizationFolder
+      1 MedicalInformatics/DataScience-CD | DataScience-CD | class jenkins.branch.OrganizationFolder
+      1 MedicalInformatics/DS-exporter-CD | DS-exporter-CD | class org.jenkinsci.plugins.workflow.job.WorkflowJob
+      1 MedicalInformatics/Clone-SMT-CI | DS-Exporter-CI | class jenkins.branch.OrganizationFolder
+      1 MedicalInformatics/Clone-CD | Clone-CD | class org.jenkinsci.plugins.workflow.job.WorkflowJob
+   2826 Video Visits Evolution/GitHub-VVE-CI
+   2630 Video Visits Evolution/GitHub-VVE-CD
+    242 Video Visits Evolution/VVE-CD
+    201 Video Visits Evolution/VVE-CI
+     18 Video Visits Evolution/VVE_AZURE_CERT
+      1 Video Visits Evolution/VVE-CI | VVE-CI | class jenkins.branch.OrganizationFolder
+      1 Video Visits Evolution/VVE-CD | VVE-CD | class jenkins.branch.OrganizationFolder
+      1 Video Visits Evolution/VVE-Azure-Adhoc | VVE-Azure-Adhoc | class org.jenkinsci.plugins.workflow.job.WorkflowJob

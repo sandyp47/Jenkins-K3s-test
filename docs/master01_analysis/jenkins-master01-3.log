@@ -1,0 +1,37 @@
+  20113 CTO/Apigee-Hybrid/engineering
+    177 CTO/Apigee-Hybrid/platform
+      4 CTO/Apigee-Hybrid/DMZ-YamlFile-Gen-AMPTool-Azure
+      1 CTO/Apigee-Hybrid/DMZ-YamlFile-Gen-AMPTool-Azure|DMZ-YamlFile-Gen-AMPTool-Azure|class org.jenkinsci.plugins.workflow.multibranch.WorkflowMultiBranchProject
+  11017 CTO/CTO-IA/Apigee-Proxy-Automated-New
+   1376 CTO/CTO-IA/Apigee-SharedFlow-Automated
+    410 CTO/CTO-IA/DMZ-Apigee-Proxy-Automated
+     25 CTO/CTO-IA/Training-Proxy-Automated-New
+     18 CTO/CTO-IA/AMP_Config
+     12 CTO/CTO-IA/Training-SharedFlow-Automated
+     11 CTO/CTO-IA/Apigee-CleanUP
+      6 CTO/CTO-IA/netnew-openapi2apigee-generator
+      5 CTO/CTO-IA/Apigee-Product-Subscription-Consumer-App
+      5 CTO/CTO-IA/Apigee-ConfigManagement-Automated
+      4 CTO/CTO-IA/Generate-Opdk-Traffic-Report
+      4 CTO/CTO-IA/DMZ-ApigeeHybrid-Proxy-Automated
+      3 CTO/CTO-IA/Training-ConfigManagement-Automated
+      3 CTO/CTO-IA/KP-Custom-OpenAPI
+      2 CTO/CTO-IA/test-apgiee
+      2 CTO/CTO-IA/dmz-openapi2apigee-generator
+      2 CTO/CTO-IA/apigee-dev-test-suite
+      1 CTO/CTO-IA/test-apgiee|test-apigee|class org.jenkinsci.plugins.workflow.multibranch.WorkflowMultiBranchProject
+      1 CTO/CTO-IA/openapi2apigee-generator-testing|openapi2apigee-generator-testing|class org.jenkinsci.plugins.workflow.multibranch.WorkflowMultiBranchProject
+      1 CTO/CTO-IA/openapi2apigee-generator-testing
+      1 CTO/CTO-IA/netnew-openapi2apigee-generator|netnew-openapi2apigee-generator|class org.jenkinsci.plugins.workflow.multibranch.WorkflowMultiBranchProject
+      1 CTO/CTO-IA/dmz-openapi2apigee-generator|dmz-openapi2apigee-generator|class org.jenkinsci.plugins.workflow.multibranch.WorkflowMultiBranchProject
+      1 CTO/CTO-IA/apigee-dev-test-suite|apigee-dev-test-suite|class org.jenkinsci.plugins.workflow.multibranch.WorkflowMultiBranchProject
+      1 CTO/CTO-IA/Training-SharedFlow-Automated|Anand Gurram|class jenkins.branch.OrganizationFolder
+      1 CTO/CTO-IA/Training-Proxy-Automated-New|Training-Proxy-Automated-New|class jenkins.branch.OrganizationFolder
+      1 CTO/CTO-IA/Training-ConfigManagement-Automated|Training-ConfigManagement-Automated|class jenkins.branch.OrganizationFolder
+      1 CTO/CTO-IA/KP-Custom-OpenAPI|KP-Custom-OpenAPI|class org.jenkinsci.plugins.workflow.multibranch.WorkflowMultiBranchProject
+      1 CTO/CTO-IA/Generate-Opdk-Traffic-Report|Generate-Opdk-Trafic-Report|class org.jenkinsci.plugins.workflow.multibranch.WorkflowMultiBranchProject
+      1 CTO/CTO-IA/DMZ-ApigeeHybrid-Proxy-Automated|DMZ-ApigeeHybrid-Proxy-Automated|class jenkins.branch.OrganizationFolder
+      1 CTO/CTO-IA/DMZ-Apigee-Proxy-Automated|DMZ-Apigee-Proxy-Automated|class jenkins.branch.OrganizationFolder
+      1 CTO/CTO-IA/Apigee-SharedFlow-Automated|Apigee-SharedFlow-Automated|class jenkins.branch.OrganizationFolder
+      1 CTO/CTO-IA/Apigee-Proxy-Automated-New|Apigee-Proxy-Automated-New|class jenkins.branch.OrganizationFolder
+      1 CTO/CTO-IA/Apigee-ConfigManagement-Automated|Apigee-ConfigManagement-Automated|class jenkins.branch.OrganizationFolder
