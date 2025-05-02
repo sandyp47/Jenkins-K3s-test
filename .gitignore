@@ -1,0 +1,10 @@
+private/*
+!private/creds_sample
+raw/*
+!raw/.gitkeep
+scripts/private/*
+!scripts/private/creds_sample
+scripts/raw/*
+scripts/creds/*
+
+.vscode/*
